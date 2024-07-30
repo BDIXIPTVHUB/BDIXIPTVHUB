@@ -1,4 +1,4 @@
-## Hi BDIX IPTV HUB
+## 
 
 <!--
 **BDIXIPTVHUB/BDIXIPTVHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
