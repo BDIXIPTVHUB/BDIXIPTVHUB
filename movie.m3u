@@ -98,10 +98,19 @@ https://nowhdtime.com.bd/api/stream/image/movie/493/poster?size=500
 https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=501
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/452/poster?size=500" group-title="BD | MOVIE", THANDA
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group-title="IND HINDI | MOVIE", FIGHTER
+http://15.1.3.3/FILE/Hindi%20Movies/2024/Fighter%20%282024%29%201080p%20WEBRip%20Hindi%20x264/Fighter%20%282024%29%201080p%20WEBRip%20Hindi%20x264.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdlMWNkMjctYWNhZS00YjZhLWFkYWQtY2ZiYjJiYTIwY2M5XkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_FMjpg_UX1000_.jpg" group-title="IND HINDI | MOVIE", SAVI
+http://15.1.3.3/FILE/Hindi%20Movies/2024/Savi%20%282024%29%201080p%20WEB-DL%20Hindi%20H264/Savi%20%282024%29%201080p%20WEB-DL%20Hindi%20H264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOIApMqoaje6O-8tfYuumYeGPzrESdW4yJOZAVn2YR7_Q1rhH" group-title="IND HINDI | MOVIE", AMAR SINGH CHAMKILA
+http://15.1.3.3/FILE/Hindi%20Movies/2024/Amar%20Singh%20Chamkila%20%282024%29%201080p%20WEB-DL%20Hindi%20H264/Amar%20Singh%20Chamkila%20%282024%29%201080p%20WEB-DL%20Hindi%20H264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjlHwYMTdo1jRsYgZ_Ii167KH0xRGs3pqeRTKtD4hZ1JQGhP9U-tud2fMD&s=10" group-title="IND HINDI | MOVIE", 12th FAIL
+http://15.1.3.3/FILE/Hindi%20Movies/2023/12th%20Fail%20%282023%29%201080p%20WEB-DL%20Hindi%20H264/12th%20Fail%20%282023%29%201080p%20WEB-DL%20Hindi%20H264.mkv
+#EXTINF:-1 tvg-logo="https://www.amazon.in/Animal-Poster-Ranbir-Unframed-Animal-8/dp/B0CNG848G3" group-title="IND HINDI | MOVIE", ANIMAL
+http://15.1.3.3/FILE/Hindi%20Movies/2023/Animal%20%282023%29%201080p%20WEBRip%20Hindi%20x264/Animal%20%282023%29%201080p%20WEBRip%20Hindi%20x264.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhMWE5YmEtZjZmYy00NjhmLTkwYzAtMTg1Mzc5YWUyZGExXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="IND HINDI | MOVIE", AKELLI
+http://15.1.3.3/FILE/Hindi%20Movies/2023/Akelli%20%282023%29%201080p%20WEBRip%20Hindi%20x264/Akelli%20%282023%29%201080p%20WEBRip%20Hindi%20x264.mkv
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", DESH TV
-M3U8
+#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", MY TV HD
-https://myflixbd.com/0.m3u8
 
