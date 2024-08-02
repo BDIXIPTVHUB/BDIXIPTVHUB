@@ -76,23 +76,27 @@ http://15.1.1.15/FILE/Animation%20Movies/2023/Lego%20Marvel%20Avengers%20Code%20
 http://15.1.1.15/FILE/Animation%20Movies/2023/Mavka%20The%20Forest%20Song%20%282023%29%201080p%20WEBRip%20AAC5.1%20x264/Mavka%20The%20Forest%20Song%20%282023%29%201080p%20WEBRip%20AAC5.1%20x264.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI6zgOY8hUxq9iydpBjMRZoHC0P8pXRa_Ci7Zu7V3n9klx45sR" group-title="ANIMITION | MOVIE", MORTAL KOMBAT LEGENDS CAGE MATCH
 http://15.1.1.15/FILE/Animation%20Movies/2023/Mortal%20Kombat%20Legends%20Cage%20Match%20%282023%29%201080p%20BluRay%20x264/Mortal%20Kombat%20Legends%20Cage%20Match%20%282023%29%201080p%20BluRay%20x264.mp4
-#EXTINF:-1 tvg-logo="" group-title="ANIMITION | MOVIE",
-
-#EXTINF:-1 tvg-logo="" group-title="ANIMITION | MOVIE",
-
-#EXTINF:-1 tvg-logo="" group-title="ANIMITION | MOVIE", 
-
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", NTV
-
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", RTV HD
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", BOISHAKHI TV HD
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", BANGLA VISION HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXOD4ZTHsg1M8B4G2KbF6Bw2cUDalTmr0HGSvGeEYst0RA71B3" group-title="ANIMITION | MOVIE", TOM AND JERRY COWBOY UP!
+http://15.1.1.15/FILE/Animation%20Movies/2022/Tom%20and%20Jerry%20Cowboy%20Up%21%20%282022%29%201080p%20WEB-DL%20H264/Tom%20and%20Jerry%20Cowboy%20Up%21%20%282022%29%201080p%20WEB-DL%20H264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdk50GkkGNBkocyRjjIf5vcc5WPfDzMiOIkIw5i_ODiiZCCW4181DKZ4&s=10" group-title="ANIMITION | MOVIE",KING TWEETY
+http://15.1.1.15/FILE/Animation%20Movies/2022/King%20Tweety%20%282022%29%201080p%20WEBRip%20DD5.1%20x264/King%20Tweety%20%282022%29%201080p%20WEBRip%20DD5.1%20x264.mkv
+#EXTINF:-1 tvg-logo="https://images.moviesanywhere.com/5e90f05b65ad2b0459d864fcf3448e00/be7564e2-3c69-41bc-b888-697d87e797d6.jpg" group-title="ANIMITION | MOVIE", THE BAD GUYS
+http://15.1.1.15/FILE/Animation%20Movies/2022/The%20Bad%20Guys%20%282022%29%201080p%20BluRay%20H264%20AAC/The%20Bad%20Guys%20%282022%29%201080p%20BluRay%20H264%20AAC.mp4
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/486/poster?size=500" group-title="BD | MOVIE", PREM PRITIR BANDHAN
+https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=486
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/469/poster?size=500" group-title="BD | MOVIE", ANTONAGAR
+https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=469
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/475/poster?size=500" group-title="BD | MOVIE", JINN
+https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=475
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/477/poster?size=500" group-title="BD | MOVIE", LAL SHARI
+https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=477
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/487/poster?size=500" group-title="BD | MOVIE", PRIYOTOMA
+https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=487
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=493" group-title="BD | MOVIE", SURONGO
+https://nowhdtime.com.bd/api/stream/image/movie/493/poster?size=500
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/501/poster?size=500" group-title="BD | MOVIE", FEMALE 4
+https://nowhdtime.com.bd/api/stream/video/stream?type=movies&id=501
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/api/stream/image/movie/452/poster?size=500" group-title="BD | MOVIE", THANDA
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", DESH TV
