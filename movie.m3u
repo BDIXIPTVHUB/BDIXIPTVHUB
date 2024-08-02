@@ -6,7 +6,7 @@ http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Tarkata%20%282014%29/T
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2011/Romeo%20%282011%29/Romeo%20%282011%29.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Shaitaan_2024_film_theatrical_poster.jpeg" group-title="IND HINDI | MOVIE", SHAITAAN
 http://103.111.120.114:5244/p/Movies/Hindi%20Movies/2024/Shaitaan%20%282024%29/Shaitaan%20%282024%29%20WEBDL-1080p.mkv
-#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt21692408/poster/original//1THOJsxIj3fqfYewAgIYZp7BfjG.jpg" group-title="ANIMITION", KUNG FU PANDA 4
+#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt21692408/poster/original//1THOJsxIj3fqfYewAgIYZp7BfjG.jpg" group-title="ANIMITION | MOVIE", KUNG FU PANDA 4
 http://103.112.150.230/Data/disk1/movies/animation/new/Kung%20Fu%20Panda%204%20(2024)/Kung%20Fu%20Panda%204.mp4
 #EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt15210506/poster/original//kYkjQ5mTWXyHt2JFsu7sX5AjeMT.jpg" group-title="HINDI | DUBBED", THE BOAT
 http://103.112.150.230/Data/disk1/movies/hindidub/The%20Boat%20(2022)/The%20Boat%202022%20BluRay%20720p%20Hindi%20English%20AAC%202.0%20x264%20ESub%20GOPIHD.mp4
@@ -38,9 +38,33 @@ http://royalflix.net/Data/disk3/movies/indian%20bangla/2010-2020/Shonar%20Pahar%
 http://royalflix.net/Data/disk3/movies/indian%20bangla/2010-2020/Shudhu%20Tomari%20Jonyo%20%20(2015)/Shudhu%20Tomari%20Jonyo%20%20(2015).MP4
 #EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt3479858/poster/original//lWptEprbMiLra0V6B4RHur55lIr.jpg" group-title="IND BANGLA | MOVIE",THR ROYAL BENGOL TIGER
 http://royalflix.net/Data/disk3/movies/indian%20bangla/2010-2020/The%20Royal%20Bengal%20Tiger%20(2014)/The%20Royal%20Bengal%20Tiger%20[2014]%20[Bangla%20Movie]%20720p%20DVDRip%20AAC%20x264%20BUZZccd%20[WBRG].mp4
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | MOVIE",YETI OBHIJAAN
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAyZGI5N2YtMzM3MS00MDk2LWI5NTMtMDFlNzAzNzExNDNmXkEyXkFqcGdeQXVyNjk3MjI4NDg@._V1_.jpg" group-title="IND BANGLA | MOVIE",YETI OBHIJAAN
 http://royalflix.net/Data/disk3/movies/indian%20bangla/2010-2020/Yeti%20Obhijaan%20(2017)/Yeti%20Obhijaan%20(2017)%20720p.HDRip.x264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTg3GvQ5MR6IxGeiT_MS5wMnDp_eLURuIlQsmM3tpOqR6kmfiaV" group-title="ANIMITION | MOVIE", JUSTICE LEAGUE CRISIS PART ONE
+http://15.1.1.15/FILE/Animation%20Movies/2024/Justice%20League%20Crisis%20on%20Infinite%20Earths%20-%20Part%20One%20%282024%29%201080p%20WEB-DL%20H264/Justice%20League%20Crisis%20on%20Infinite%20Earths%20-%20Part%20One%20%282024%29%201080p%20WEB-DL%20H264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWOvwg_LuL4EljcCnU_ElAUGE31LndTZDqzd5rbVcD3mfW9xo--dukLo&s=10" group-title="ANIMITION | MOVIE", JUSTICE LEAGUE CRISIS PART TWO
+http://15.1.1.15/FILE/Animation%20Movies/2024/Justice%20League%20Crisis%20on%20Infinite%20Earths%20-%20Part%20Two%20%282024%29%201080p%20BluRay%20x264/Justice%20League%20Crisis%20on%20Infinite%20Earths%20-%20Part%20Two%20%282024%29%201080p%20BluRay%20x264.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxt4ITr3iESx-Ewljjas-gsbC_ZjspQcQtfvr_IX952-zSSU5Y" group-title="ANIMITION | MOVIE", JUSTICE LEAGUE CRISIS PART THREE
+http://15.1.1.15/FILE/Animation%20Movies/2024/Justice%20League%20Crisis%20on%20Infinite%20Earths%2C%20Part%20Three%20%282024%29%201080p%20WEB-DL%20H264/Justice%20League%20Crisis%20on%20Infinite%20Earths%2C%20Part%20Three%20%282024%29%201080p%20WEB-DL%20H264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPclZxlh8MXTsyHTopiRu-UsfRHvb4R-4ez-45lMGP6t-R7EwlwKStRXbh&s=10" group-title="ANIMITION | MOVIE", MARS EXPRESS
+http://15.1.1.15/FILE/Animation%20Movies/2024/Mars%20Express%20%282024%29%201080p%20WEBRip%20x264/Mars%20Express%20%282024%29%201080p%20WEBRip%20x264.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-mxvzRnbpG9vmZwGg9KfUj_CmxHugmHrPH-mXj0xfoKO0su99yUN_7t2&s=10" group-title="ANIMITION | MOVIE", MEGAMIND VS THE DOOM SYNDICATE
+http://15.1.1.15/FILE/Animation%20Movies/2024/Megamind%20vs.%20The%20Doom%20Syndicate%20%282024%29%201080p%20WEBRip%20x264/Megamind%20vs.%20The%20Doom%20Syndicate%20%282024%29%201080p%20WEBRip%20x264.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE0Zjc2NWYtOGI3MC00NmU2LThlZTktM2M4OGRhZmQyOGM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIMITION | MOVIE", MOTU PATLU THE RACE THE DIAMOND VALLEY
+http://15.1.1.15/FILE/Animation%20Movies/2024/Motu%20Patlu%20%26%20The%20Race%20to%20the%20Diamond%20Valley%20%282024%29%201080p%20WEB-DL%20x264/Motu%20Patlu%20%26%20The%20Race%20to%20the%20Diamond%20Valley%20%282024%29%201080p%20WEB-DL%20x264.mkv
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/qWJytrrrV7KiBDdBCyxtAdB9OK8t69VVg853EIVMsMM0Ixd6wD_U0qmm83hkLmn1oQL9nVKiy3Td1_w1v4HSMO5cN2U2m8qLlYFRIIZZ3MPvmTI" group-title="ANIMITION | MOVIE", THE TIGER APPRENTICE
+http://15.1.1.15/FILE/Animation%20Movies/2024/The%20Tiger%27s%20Apprentice%20%282024%29%201080p%20WEBRip%20x264/The%20Tiger%27s%20Apprentice%20%282024%29%201080p%20WEBRip%20x264.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpYCT7zZ3AIF32uTQaB-UbAqVwZos3JdKkqjyvyK7krLr-GPOD" group-title="ANIMITION | MOVIE", BATMAN THE DOOM THAT CAME TO GOTHAM
+http://15.1.1.15/FILE/Animation%20Movies/2023/Batman%20The%20Doom%20That%20Came%20to%20Gotham%20%282023%29%201080p%20WEBRip%20x264/Batman%20The%20Doom%20That%20Came%20to%20Gotham%20%282023%29%201080p%20WEBRip%20x264.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAkyvlkWXGPLH6N_OZvqYdK7fuK9cYWM3Ck9TS-WhDtoTceVPb" group-title="ANIMITION | MOVIE", BLUE GIANT
+http://15.1.1.15/FILE/Animation%20Movies/2023/Blue%20Giant%20%282023%29%201080p%20WEB-DL%20x264/Blue%20Giant%20%282023%29%201080p%20WEB-DL%20x264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKHFpdZ_ZjnZ8NI6VoqNJOJTHNDxLngndvAWNNKaV34wT9msIz" group-title="ANIMITION | MOVIE", CHHOTA BHEEM MAHASHAITAAN KA MAHAYUDH
+http://15.1.1.15/FILE/Animation%20Movies/2023/Chhota%20Bheem%20Maha%20Shaitaan%20Ka%20Mahayudh%20%282023%29%201080p%20WEB-DL%20x264/Chhota%20Bheem%20Maha%20Shaitaan%20Ka%20Mahayudh%20%282023%29%201080p%20WEB-DL%20x264.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWr82YeoF_I4FBUe9VuRP3wVw6BjKg2-6XPQrniKzrpmhKk6nZWUiJwNHE&s=10" group-title="ANIMITION | MOVIE", CHHOTA BHEEM SHAKTI ASTRA KHOJ
+http://15.1.1.15/FILE/Animation%20Movies/2023/Chhota%20Bheem%20Shakti%20Astra%20Ki%20Khoj%20%282023%29%201080p%20WEB-DL%20x264/Chhota%20Bheem%20Shakti%20Astra%20Ki%20Khoj%20%282023%29%201080p%20WEB-DL%20x264.mkv
 
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMITION | MOVIE", 
 
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="BD | MOVIE", NTV
