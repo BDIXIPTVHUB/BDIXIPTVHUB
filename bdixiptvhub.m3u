@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsj6qFg/20240802-195019.png" group-title="BD | ENTERTAINMENT", BTV HD
-http://51.159.212.144/live/mahendra44/mhnd1234/245930.m3u8?token=GhMNBEZcR1gRAlJeBlNRB10PAgMCVQoJA1dVB1IIAFJVVVQABwAHVAREGBoXEhZRBVtrXgVGAgJWUw4HAxQUFhJUFzpcUEdYEVIEDlBQUxZIFEBeDAEaClJKFURaXBRZQwNRUAwMR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR18XBVRaAkQYGgcJEVoQRE0VW0Z6dEBKFVFLTFMNElgKCxcORw8AEwwaSEQNRztEUUQVFl1RDwNFFgkaBkFNEwgETWsGDV0IUVsQDwtaFxQOFVBGFBIPCVldR1dEPBFYAUcPFldWBVADGhk=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXxW24s/20240802-195055.png" group-title="BD | ENTERTAINMENT", BTV CHATTAGRAM 
 M3U8
@@ -10,7 +10,7 @@ M3U8
 http://xtv.ooo:8080/Sehrish/12345/245940
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDRQdxW/20240802-195715.png" group-title="BD | ENTERTAINMENT", ATN BANGLA
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=81&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="BD | ENTERTAINMENT", CHANNEL I HD
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -22,31 +22,31 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3DbP7V/20240802-200227.png" group-title="BD | ENTERTAINMENT", RTV HD
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YcRhXPy/20240802-200400.png" group-title="BD | ENTERTAINMENT", BOISHAKHI TV HD
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtGFZw3/20240802-200509.png" group-title="BD | ENTERTAINMENT", BANGLA VISION HD
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=84&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="BD | ENTERTAINMENT", DESH TV
 M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PspYHX7/20240802-201706.png" group-title="BD | ENTERTAINMENT", MY TV HD
-https://myflixbd.com/0.m3u8
+http://176.119.29.52/live.ts?channelId=106&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" group-title="BD | ENTERTAINMENT", ATN NEWS
 https://ythls.armelin.one/channel/UCKlhfq1ILoAFav7iw5iCnfA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9LQgC1/20240802-201215.png" group-title="BD | ENTERTAINMENT", MOHONA TV 
-https://api.himel-op.top/s*x.php?id=245920
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YyC5Y61/20240802-202044.png" group-title="BD | ENTERTAINMENT", BIJOY TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=48749
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bX4tt98/20240730-222351.png" group-title="BD | ENTERTAINMENT", SOMOY TV
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png" group-title="BD | ENTERTAINMENT", INDEPENDENT NEWS
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
@@ -55,7 +55,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6Wy1BB/20240802-202527.png" group-title="BD | ENTERTAINMENT", CHANNEL 9 
-http://xtv.ooo:8080/Sehrish/12345/245902
+http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGhT9Z9/20240730-225044.png" group-title="BD | ENTERTAINMENT", CHANNEL 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
