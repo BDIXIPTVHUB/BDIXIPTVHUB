@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="BDIX IPTV HUB", @bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 #EXTINF:-1 https://upload.wikimedia.org/wikipedia/en/9/92/Taarkata_Theatrical_poster.jpg" group-title="BD | MOVIE", TARKATA
 http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Tarkata%20%282014%29/Tarkata%20%282014%29.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Romeo_-_2011_Movie_Poster.jpg" group-title="IND BANGLA | MOVIE", ROMEO
