@@ -1,2 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="BDIX IPTV HUB", @bdixiptvhub
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxs6v7d/20240730-234013.png" group-title="AKASH GO", JAMUNA TV
+http://113.212.111.246:8080/hls/col12.m3u8
+
