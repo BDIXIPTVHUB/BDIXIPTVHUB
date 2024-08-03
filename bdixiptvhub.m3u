@@ -108,247 +108,241 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YW800mn/20240802-214656.png" group-title="BD | ENTERTAINMENT", GLOBAL TV
 M3
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA HD
 http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rzj28tJ/20240803-101916.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA 
 https://api.himel-op.top/s*x.php?id=245895
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Y3PDz/20240803-101932.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA HD
 http://starshare.live:8080/live/Sylvia/Sylvia/98882.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA CINEMA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA CINEMA 
 vv
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", SONY AATH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="IND BANGLA | ENTERTAINMENT", SONY AATH
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1 
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", JALSHA MOVIS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="IND BANGLA | ENTERTAINMENT", JALSHA MOVIS HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA CINEMA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vw5WYfy/20240803-102314.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA CINEMA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", SUN BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png" group-title="IND BANGLA | ENTERTAINMENT", SUN BANGLA
 http://51.159.212.144/live/ramiz67/8774343/245906.m3u8?token=GhMNBEZcR1gRVQMMBVMBBVNTBAYFVAABWwQHDAoABlpWU1JcBVZSWgpEGBoXEhZRBVtrXgVGAgJWUw4EBRQUFhJUFzpcUEdYEVEHCVxRUhZIFEBeDAEaClJKFURaXBRZQwNdVAIGR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR18XBVJWCkQYGgcJEVoQRE0VW0Z6dEBKFVFLTFMNElgKCxcORw8AEwwaSEQNRztEUUQVFl1RDwNFFgkaBkFNEwgETWsGDV0IUVsQDwtaFxQOFVBGFBIPCVldR1dEPBFYAUcPFldaAVADGhk=
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", KHUSHBOO BANGLA  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="IND BANGLA | ENTERTAINMENT", KHUSHBOO BANGLA  
 https://cdn3.pishow.tv/live/283/master.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", ENTEER TEN BANGLA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title="IND BANGLA | ENTERTAINMENT", ENTEER TEN BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", AAKASH AATH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png" group-title="IND BANGLA | ENTERTAINMENT", AAKASH AATH
 http://51.159.212.144/live/ramiz67/8774343/245928.m3u8?token=GhMNBEZcR1gRUAYBUFNSDFVSVQcDBQFVVAQDAgFeVQdWAQFSU1FSAVJEGBoXEhZRBVtrXgVGAgJWUw4GCxQUFhJUFzpcUEdYEVEHCVxRUhZIFEBeDAEaClJKFURaXBRZQwJXUAcER04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR19bQQkOH0RXVxEIEEYdFA4VIyAaHEADT0BWVkUKDl9HXxdZVhcLRBgaDRU7RgFFQEUEBVVVEEQNFgMaGkEMUB06VlsLDFYFQFELCBcWXhQFFU1GVV8MD0NbQWdGCgUTX0cGBlBQCkRJ
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", SANANDA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FmdqfLq/20240803-165015.png" group-title="IND BANGLA | ENTERTAINMENT", SANANDA TV
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND BANGLA | ENTERTAINMENT", AMAR DIGITAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="IND BANGLA | ENTERTAINMENT", AMAR DIGITAL
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", RUPOSHI BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="IND BANGLA | ENTERTAINMENT", RUPOSHI BANGLA
 https://cdn3.pishow.tv/live/281/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", ABP ANANDA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mCr1q1/20240803-102358.png" group-title="IND BANGLA | ENTERTAINMENT", ABP ANANDA 
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", ZEE 24 GHONTA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbRHng/20240803-164315.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE 24 GHONTA 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND BANGLA | ENTERTAINMENT", TV9 BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Tsm5B4/20240803-102413.png" group-title="IND BANGLA | ENTERTAINMENT", TV9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS", DURONTO TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS", DURONTO TV HD
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS", KIDS CARTOON
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-" group-title="KIDS", NICKELODEON 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JxMQzYn/20240803-103230.png" group-title="KIDS", NICKELODEON 
 M3U8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", NICKELODEON JUNIOR 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrVqxD0/image-Content-390-j5jpps1s-m1.png" group-title="KIDS", NICKELODEON JUNIOR 
 M3U8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", NICKELODEON SONIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", NICKELODEON SONIC
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=47ef0cc5248f51856
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", SONY YAY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-yay&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS", WOW KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png" group-title="KIDS", WOW KIDS
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS", WOW ACTION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q99whvs/20240803-103842.png" group-title="KIDS", WOW ACTION
 http://xtv.ooo:8080/35588981/18988553/314753
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82r3MtN/image-Content-11161-j99h67u8-m1.png" group-title="KIDS", CARTOON NETWORK HD
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", POGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS", POGO
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", GUBBARE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS", HUNGAMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="KIDS", MOTU PATLU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS", MOTU PATLU
 M3U8 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", DISCOVARY KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS", DISCOVARY KIDS
 https://freeott.site/discovery/Discovery_Kids.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS", DISNEY CHANNEL
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", SANGEET BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", MUSIC INDIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC", MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", BALLE BALLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WtkmCXz/20240803-163225.png" group-title="MUSIC", BALLE BALLE
 vv
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", 9X TASHAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC" 9XM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC" 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", 9X JALWA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", AB MASTI III
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gtNMZpg/20240803-104501.png" group-title="MUSIC", MTV
 http://14.102.123.50:5001/live/248.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", MTV BEATS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQ6vNnF/20240803-105325.png" group-title="MUSIC", MTV BEATS HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", ZING
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6NDLsy/20240803-105344.png" group-title="MUSIC", ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", SANGEET BHOJPURI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MY1r9f/20240803-105226.png" group-title="MUSIC", SANGEET BHOJPURI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", JOO MUSIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6m5DTW/20240803-105303.png" group-title="MUSIC", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", E24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="MUSIC", E24
 https://ekusheyserver.com/etvlivesn.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", SHOW BOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQL9Zs5/20240803-105418.png" group-title="MUSIC", SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", B4U MUSIC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKvtgQG/20240803-105450.png" group-title="MUSIC", B4U MUSIC 
 https://cdn2.pishow.tv/live/141/master.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC", ZOOM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7CSqY9t/image-Content-24696-jgrq09a8-m1.png" group-title="MUSIC", ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NyMj8hs/20240803-110438.png" group-title="IND HINDI | ENTERTAINMENT", STAR GOLD HD
 http://humsab.xyz/IN_STGOLD/index.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRV25Y9/20240803-110715.png" group-title="IND HINDI | ENTERTAINMENT", ZEE CINEMA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IND HINDI | ENTERTAINMENT", SONY MAX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="IND HINDI | ENTERTAINMENT", SONY MAX HD
 https://api.himel-op.top/s*x.php?id=109951
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", COLORS CINEFLIX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="IND HINDI | ENTERTAINMENT", COLORS CINEFLIX HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", & PICTURES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WtsQSjh/20240803-110628.png" group-title="IND HINDI | ENTERTAINMENT", & PICTURES HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", SONY WAH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLFPrd/20240803-110518.png" group-title="IND HINDI | ENTERTAINMENT", SONY WAH
 http://xtv.ooo:8080/Sehrish/12345/207200
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbbD4Dc/20240803-110410.png" group-title="IND HINDI | ENTERTAINMENT", STAR PLUS HD
 http://103.120.172.74:4300/
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", ZEE TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDzvrRX/20240803-110704.png" group-title="IND HINDI | ENTERTAINMENT", ZEE TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", STAR BHARAT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xTBHRY/20240803-110422.png" group-title="IND HINDI | ENTERTAINMENT", STAR BHARAT HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", ZEE Bollywood
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcM2YGH/20240803-110729.png" group-title="IND HINDI | ENTERTAINMENT", ZEE BOLLYWOOD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", SONY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gRWrx0L/20240803-162235.png" group-title="IND HINDI | ENTERTAINMENT", SONY ETV HD
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", & TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYnZkKk/20240803-110602.png" group-title="IND HINDI | ENTERTAINMENT", & TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", SONY SAB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="IND HINDI | ENTERTAINMENT", SONY SAB
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-sab-hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", SONY PAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="IND HINDI | ENTERTAINMENT", SONY PAL
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-max-hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", SONY PIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="IND HINDI | ENTERTAINMENT", SONY PIX
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-pix-hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", COLORS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDjPKbm/20240803-110641.png" group-title="IND HINDI | ENTERTAINMENT", COLORS HD
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=144&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", B4U MOVIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438" group-title="IND HINDI | ENTERTAINMENT", B4U MOVIE
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=182&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJbh7r9/20240803-162759.png" group-title="IND HINDI | ENTERTAINMENT ", STAR GOLD SELECT HD
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", SONY PLIX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="IND HINDI | ENTERTAINMENT", SONY PLIX HD
 https://ekusheyserver.com/etvlivesn.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFwYNBW/20240803-110739.png" group-title=" DOCUMENTARY", ANIMAL PLANET HD
 https://freeott.site/discovery/Animal_Planet.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB4Sv2y/20240803-101733.png" group-title=" DOCUMENTARY", DISCOVERY HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", DISCOVERY BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title=" DOCUMENTARY", DISCOVERY BANGLA
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0sNWtg3/20240803-103758.png" group-title=" DOCUMENTARY", DISCOVERY TURBO
 https://freeott.site/discovery/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKhdWcz/20240803-103809.png" group-title=" DOCUMENTARY", DISCOVERY SCIENCE 
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", WILD EARTH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title=" DOCUMENTARY", WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", CGTN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JLhm2N/20240803-112437.png" group-title=" DOCUMENTARY", CGTN HD
 m3u
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", FOOD NETWORK 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHpc2sx/20240803-112408.png" group-title=" DOCUMENTARY", FOOD NETWORK 
 https://freeott.site/discovery/Food%20Network.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", HGTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X7Dsfkh/20240803-112421.png" group-title=" DOCUMENTARY", HGTV HD
 https://freeott.site/discovery/HGTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R0gJjfr/20240608-180144.png" group-title=" DOCUMENTARY", FOOD FOOD
 m3u
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="IND HINDI | ENTERTAINMENT", TCL HD
-https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=479&e=.m3u8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", SONY BBC EARTH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title=" DOCUMENTARY", SONY BBC EARTH
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", NATIONAL GEO GRAPHIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title=" DOCUMENTARY", NATIONAL GEO GRAPHIC
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=48b25ad61d3247453
 
 #EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", NAT GEO WILD
