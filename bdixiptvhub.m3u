@@ -1,4 +1,11 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="epg"
+
+OFFLINE VIDIO
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="BDIX IPTV HUB", @bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsj6qFg/20240802-195019.png" group-title="BD | ENTERTAINMENT", BTV HD
 m3u8
