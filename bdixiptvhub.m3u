@@ -20,7 +20,7 @@ http://xtv.ooo:8080/Sehrish/12345/245940
 http://tv.cloudcdn.me/live.ts?channelId=81&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="BD | ENTERTAINMENT", CHANNEL I HD
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722737954/ei/wpCuZsrxH7v9sfIPgeKNwAo/ip/20.171.75.97/id/MOlNa-VEjvM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225979/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdbZxs5-Iqr2KL2nDi42RKSdXHFjXsjd_dzSF6w8BRPxXVfbTROW5tIaKMk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJr2yxHJ64rLVCXIvL6fviwF85oJ0lw1ev1dgU2QjWkvAiAV_spMbuRKvwVAx8HBJDBUn4__SeMFUpwLFNhaI97jMQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hyctQsw/20240802-200031.png" group-title="BD | ENTERTAINMENT", EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -116,7 +116,7 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 M3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://103.151.60.174/manikvai@hoichoi24.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA HD
 http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
@@ -154,8 +154,8 @@ http://51.159.212.144/live/ramiz67/8774343/245928.m3u8?token=GhMNBEZcR1gRUAYBUFN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FmdqfLq/20240803-165015.png" group-title="IND BANGLA | ENTERTAINMENT", SANANDA TV
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="IND BANGLA | ENTERTAINMENT", AMAR DIGITAL
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="IND BANGLA | ENTERTAINMENT", AMAR BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="IND BANGLA | ENTERTAINMENT", RUPOSHI BANGLA
 https://cdn3.pishow.tv/live/281/master.m3u8
@@ -194,7 +194,7 @@ http://xtv.ooo:8080/35588981/18988553/314753
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS", POGO
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b8376b1011a7a1453b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
@@ -203,7 +203,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS", MOTU PATLU
-M3U8 
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS", DISCOVARY KIDS
 https://freeott.site/discovery/Discovery_Kids.m3u8
@@ -266,7 +266,7 @@ http://humsab.xyz/IN_STGOLD/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="IND HINDI | ENTERTAINMENT", SONY MAX HD
-https://api.himel-op.top/s*x.php?id=109951
+http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="IND HINDI | ENTERTAINMENT", COLORS CINEFLIX HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
@@ -299,7 +299,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-sab-hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="IND HINDI | ENTERTAINMENT", SONY PAL
-http://thenayeemparvez.xyz/sliv/stream.php?id=sony-max-hd&e=.m3u8
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="IND HINDI | ENTERTAINMENT", SONY PIX
 http://thenayeemparvez.xyz/sliv/stream.php?id=sony-pix-hd&e=.m3u8
@@ -368,7 +368,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://ekdilhai.pro/Gazi_TV/tracks-v1a1/mono.m3u8?token=1ff8ea3e616617919fedf855a3b5846f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSn2zPb/20240803-112841.png" group-title="SPORTS", T SPORTS HD
-https://bdix.proximitybd.xyz/join-@live_cricket_24.php?id=live-01
+https://humsab.xyz/GBanTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mq9N4yD/20240803-110909.png" group-title="SPORTS", SONY SPORTS 1
 http://tv.cloudcdn.me/live.ts?channelId=289&uid=5563&deviceMac=00:1A:79:A7:35:8B
@@ -383,13 +383,13 @@ http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=5563&deviceMac=00:1A:79:A7:35:8B
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q9xkRd/20240803-171819.png" group-title="SPORTS", STAR SPORTS 1
-http://103.120.172.74:4600/
+http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yX95xpL/20240803-111059.png" group-title="SPORTS", STAR SPORTS 2
-M3U8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPsPPq7/20240803-111112.png" group-title="SPORTS", STAR SPORTS SELECT 1
-M3U8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FW8v6Vz/20240803-111134.png" group-title="SPORTS", SPORTS 18 HD
 http://103.120.172.74:5500/
@@ -412,8 +412,8 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2WnvSN/20240803-112623.png" group-title="SPORTS", WWE
 M3U8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1DY60z/20240803-112710.png" group-title="SPORTS", ASTRO SUPER CRICKET
-M3U8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6m9485/20240804-032952.png" group-title="SPORTS", ASTRO CRICKET
+https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k5FMpsF/20240803-112725.png" group-title="SPORTS", WILLOW
 https://ekusheyserver.com/etvlivesn.m3u8 
@@ -426,6 +426,9 @@ M3U8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CQ0JWPQ/20240803-172457.png" group-title="RELIGIOUS", ATN ISLAMIC TV
 https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="RELIGIOUS", PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="RELIGIOUS", ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
