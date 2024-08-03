@@ -330,9 +330,6 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JLhm2N/20240803-112437.png" group-title=" DOCUMENTARY", CGTN HD
 m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHpc2sx/20240803-112408.png" group-title=" DOCUMENTARY", FOOD NETWORK 
-https://freeott.site/discovery/Food%20Network.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X7Dsfkh/20240803-112421.png" group-title=" DOCUMENTARY", HGTV HD
 https://freeott.site/discovery/HGTV.m3u8
 
@@ -345,130 +342,94 @@ http://thenayeemparvez.xyz/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncrtw44/20240803-101450.png" group-title=" DOCUMENTARY", NATIONAL GEO GRAPHIC
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=48b25ad61d3247453
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZWRbcP/20240803-170217.png" group-title=" DOCUMENTARY", NAT GEO WILD
 http://xtv.ooo:8080/Sehrish/12345/206587
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", WEATHER SPY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6FMM9R/20240803-112332.png" group-title=" DOCUMENTARY", WEATHER SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", STAR LIFE
-http://xtv.ooo:8080/Sehrish/12345/109980
-
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", HISTORY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WGYZTwc/20240803-110834.png" group-title=" DOCUMENTARY", HISTORY HD
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=146&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", TRAVEL XP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9RxJ99/20240803-110853.png" group-title=" DOCUMENTARY", TRAVEL XP
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=164&e=.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title=" DOCUMENTARY", LOVE NATURE 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cCtG9XS/20240803-112351.png" group-title=" DOCUMENTARY", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", T SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSn2zPb/20240803-112841.png" group-title="SPORTS", T SPORTS 
 http://ekdilhai.pro/Gazi_TV/tracks-v1a1/mono.m3u8?token=1ff8ea3e616617919fedf855a3b5846f
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", T SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSn2zPb/20240803-112841.png" group-title="SPORTS", T SPORTS HD
 https://bdix.proximitybd.xyz/join-@live_cricket_24.php?id=live-01
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SONY LIV
-M3U8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SONY SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mq9N4yD/20240803-110909.png" group-title="SPORTS", SONY SPORTS 1
 http://tv.cloudcdn.me/live.ts?channelId=289&uid=5563&deviceMac=00:1A:79:A7:35:8B
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SONY SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMcZt2G/20240803-110921.png" group-title="SPORTS", SONY SPORTS 2
 hhttp://tv.cloudcdn.me/live.ts?channelId=290&uid=5563&deviceMac=00:1A:79:A7:35:8B
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SONY SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKk6b46/20240803-110941.png" group-title="SPORTS", SONY SPORTS 3
 http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SONY SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0FdSJmp/20240803-111025.png" group-title="SPORTS", SONY SPORTS 5
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=5563&deviceMac=00:1A:79:A7:35:8B
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q9xkRd/20240803-171819.png" group-title="SPORTS", STAR SPORTS 1
 http://103.120.172.74:4600/
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yX95xpL/20240803-111059.png" group-title="SPORTS", STAR SPORTS 2
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WPsPPq7/20240803-111112.png" group-title="SPORTS", STAR SPORTS SELECT 1
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS SELECT 1
-M3U8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", STAR SPORTS SELECT 2
-m3u
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SPORTS 18 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FW8v6Vz/20240803-111134.png" group-title="SPORTS", SPORTS 18 HD
 http://103.120.172.74:5500/
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", EURO SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0rDWCv/20240803-111147.png" group-title="SPORTS", EURO SPORTS
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SUPAR SPORTS CRICKET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/St5x1Cm/20240803-112641.png" group-title="SPORTS", SUPAR SPORTS CRICKET
 m3u
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SKY SPORTS CRICKET
-m3u
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", TNT SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bTMZ5d/20240803-112456.png" group-title="SPORTS", TNT SPORTS 
 https://ekusheyserver.com/etvlivesn.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", TEN SPORTS 
-https://ekusheyserver.com/etvlivesn.m3u8 
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SKY SPORTS
-https://ekusheyserver.com/etvlivesn.m3u8 
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", PTV SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cT2q86b/20240803-112606.png" group-title="SPORTS", PTV SPORTS
 https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=18294
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SS1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3W1fDB/20240803-171519.png" group-title="SPORTS", SSC 1
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?|drmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", WWE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2WnvSN/20240803-112623.png" group-title="SPORTS", WWE
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", SKY SPORTS CRICKET 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1DY60z/20240803-112710.png" group-title="SPORTS", ASTRO SUPER CRICKET
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", ASTRO CRICKET
-M3U8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", WILLOW
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5FMpsF/20240803-112725.png" group-title="SPORTS", WILLOW
 https://ekusheyserver.com/etvlivesn.m3u8 
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", DUBAI SPORTS 
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaispo
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qTY5MF/20240803-171500.png" group-title="SPORTS", ESPN
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS", A SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnHJF1X/20240803-112657.png" group-title="SPORTS", A SPORTS
 M3U8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="RELIGIOUS", PEACE TV BAMGLA
-M3U8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="RELIGIOUS", ATN ISLAMIC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQ0JWPQ/20240803-172457.png" group-title="RELIGIOUS", ATN ISLAMIC TV
 https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="RELIGIOUS", ISLAM BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="RELIGIOUS", ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="RELIGIOUS", DEEN TV
-https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="LOGO" group-title="RELIGIOUS", IQRA BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2F9HQq9/20240803-172433.png" group-title="RELIGIOUS", IQRA BANGLA
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="logo" group-title="RELIGIOUS", AL SUNNAH
-https://tgn.bozztv.com/trn01/gin-saudisunnah/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="logo" group-title="RELIGIOUS", AL QURAN 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5K2BSq8/20240803-172623.png" group-title="RELIGIOUS", AL QURAN 
 https://tgn.bozztv.com/trn01/gin-saudiquran/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="LOGO" group-title="RELIGIOUS", MAKKAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="RELIGIOUS", MAKKAH TV
 https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
 
 
