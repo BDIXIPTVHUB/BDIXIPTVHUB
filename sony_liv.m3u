@@ -1,13 +1,15 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="BDIX IPTV HUB", @bdixiptvhub
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY ENTERTAINMENT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="SONY LIV", SONY ENTERTAINMENT HD
 https://allinonereborn.in/sliv.m3u8?ch=SETHD&id=2011671
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141" group-title="SONY LIV", SONY SAB HD
 https://tataplaymt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1722760566~exp=1722760866~acl=*~id=4d910145-69a5-4f72-ad01-cb2de2b1f6dd~hmac=3b25306c72cf9ba6c9f69078669bc3bafb77440fdbf7ffaba90d83318fc01122&sku_name=Free
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-1" group-title="SONY LIV", SONY PAL 
 https://allinonereborn.in/sliv.m3u8?ch=SonyPalSD&id=2011741
-#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY KAL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="SONY LIV", SONY KAL HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hZMS29C/20240804-145905.png" group-title="SONY LIV", SONY MOVIE
+https://allinonereborn.in/dd11.m3u8?id=2741
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198" group-title="SONY LIV", SONY WAH
 https://tataplaymt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1722760807~exp=1722761107~acl=*~id=dbc99125-aa2f-4192-aa6e-f7c82df995e8~hmac=7012fa46154c0073d93a06be9e282a86e6595aaeaf9d95afc0ba8fca99f5bbba&sku_name=Free
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j" group-title="SONY LIV", SONY PLX HD
@@ -30,7 +32,7 @@ https://allinonereborn.in/sliv.m3u8?ch=TEN1HD&id=2011747
 https://allinonereborn.in/sliv.m3u8?ch=TEN2HD&id=2020434
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-1" group-title="SONY LIV", SONY SPORTS 3
 https://allinonereborn.in/sliv.m3u8?ch=TEN3HD&id=2020591
-#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LRd4SfJ/20240804-145538.png" group-title="SONY LIV", SONY SPORTS 4
 https://allinonereborn.in/sliv.m3u8?ch=TEN4HD&id=2020591
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108" group-title="SONY LIV", SONY SPORTS 5
 https://allinonereborn.in/sliv.m3u8?ch=TEN5HD&id=2020591
