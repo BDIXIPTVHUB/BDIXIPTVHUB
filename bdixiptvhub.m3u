@@ -23,7 +23,7 @@ http://xtv.ooo:8080/Sehrish/12345/245940
 http://tv.cloudcdn.me/live.ts?channelId=81&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="BD | ENTERTAINMENT", CHANNEL I HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722737954/ei/wpCuZsrxH7v9sfIPgeKNwAo/ip/20.171.75.97/id/MOlNa-VEjvM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225979/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdbZxs5-Iqr2KL2nDi42RKSdXHFjXsjd_dzSF6w8BRPxXVfbTROW5tIaKMk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJr2yxHJ64rLVCXIvL6fviwF85oJ0lw1ev1dgU2QjWkvAiAV_spMbuRKvwVAx8HBJDBUn4__SeMFUpwLFNhaI97jMQ%3D%3D/file/index.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hyctQsw/20240802-200031.png" group-title="BD | ENTERTAINMENT", EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -41,8 +41,7 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=84&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="BD | ENTERTAINMENT", DESH TV
-M3U8
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDTz1bt_mCQ4ZBccukX14Bs/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PspYHX7/20240802-201706.png" group-title="BD | ENTERTAINMENT", MY TV HD
 http://176.119.29.52/live.ts?channelId=106&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
@@ -71,14 +70,13 @@ http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nx6DCPW/20240802-202841.png" group-title="BD | ENTERTAINMENT", GAZI TV 
-http://starshare.live:8080/live/Sylvia/Sylvia/767.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFSLu1h31Nc1e_8OD248c0Y/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="BD | ENTERTAINMENT", EKATTOR TV 
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywazi
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gN3ZURkVjPkI_dXOxk30Z7c/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gwG7QP2/20240802-201123.png" group-title="BD | ENTERTAINMENT", ASIAN TV HD
-https://mtlivestream.site/asian/ytlive/index.m3u8
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gG0LpRuaEyg8rSrFeokPXfo/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fDGPbGJ/20240802-203018.png" group-title="BD | ENTERTAINMENT", SA TV HD
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
@@ -89,35 +87,33 @@ http://tv.cloudcdn.me/live.ts?channelId=97&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LP1hGbC/20240802-213720.png" group-title="BD | ENTERTAINMENT", DEEPTO TV HD
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEzIpWINPhEY1ezirKGzJTI/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png" group-title="BD | ENTERTAINMENT", DBC NEWS HD
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jtwns3g/20240802-202447.png" group-title="BD | ENTERTAINMENT", NEWS 24 HD
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WPBSTG/20240802-213751.png" group-title="BD | ENTERTAINMENT", NAGORIK TV
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDvdR4q/20240803-012316.png" group-title="BD | ENTERTAINMENT", BANGLA TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfD0D6Q/20240802-214550.png" group-title="BD | ENTERTAINMENT", ANANDA TV
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNR9e8M3P27IYrfKkOJe3vw/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHk2GMz/20240802-214221.png" group-title="BD | ENTERTAINMENT", MOVIE BANGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q1YN5rx/20240802-213810.png" group-title="BD | ENTERTAINMENT", NEXUS TV
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNw0IG5jXS9oD7sORe7bnBc/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png" group-title="BD | ENTERTAINMENT", EKHON TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YW800mn/20240802-214656.png" group-title="BD | ENTERTAINMENT", GLOBAL TV
-M3
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJ_X5WhrYEIvgVzxsW_OBsQ/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
 http://103.151.60.174/manikvai@hoichoi24.com
 
@@ -125,7 +121,7 @@ http://103.151.60.174/manikvai@hoichoi24.com
 http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rzj28tJ/20240803-101916.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA 
-https://api.himel-op.top/s*x.php?id=245895
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPZFAYhNz2ja6MXsKWOCgB0/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Y3PDz/20240803-101932.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA HD
 http://starshare.live:8080/live/Sylvia/Sylvia/98882.m3u8
@@ -173,22 +169,22 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS", DURONTO TV HD
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JxMQzYn/20240803-103230.png" group-title="KIDS", NICKELODEON 
-M3U8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SrVqxD0/image-Content-390-j5jpps1s-m1.png" group-title="KIDS", NICKELODEON JUNIOR 
-M3U8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKPZfO4EoteAUFKGhHHBBEk/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", NICKELODEON SONIC
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=47ef0cc5248f51856
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKhDBHy2GH9Oh4H1VQxvGJA/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY
-http://thenayeemparvez.xyz/sliv/stream.php?id=sony-yay&e=.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gAUjcBFAa2UW4oGIIoFYh3c/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png" group-title="KIDS", WOW KIDS
-http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gAg6c0QTr7cnD_dT1tgYMNo/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q99whvs/20240803-103842.png" group-title="KIDS", WOW ACTION
 http://xtv.ooo:8080/35588981/18988553/314753
