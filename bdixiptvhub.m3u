@@ -102,6 +102,9 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=4UCG4SFhEuOL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDvdR4q/20240803-012316.png" group-title="BD | ENTERTAINMENT", BANGLA TV
 https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=64eXy0YhUf7blYPGCemI7A&expires=1723084591&user=d477246e9e724f81a011b847457e71c4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDvdR4q/20240803-012316.png" group-title="BD | ENTERTAINMENT", BANGLA TV Europe 
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfD0D6Q/20240802-214550.png" group-title="BD | ENTERTAINMENT", ANANDA TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNR9e8M3P27IYrfKkOJe3vw/ts
 
