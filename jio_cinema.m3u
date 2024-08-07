@@ -2,9 +2,6 @@
 #EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="BDIX IPTV HUB", @bdixiptvhub
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
-#EXTM3U × Dinesh Shrestha (ardinesh)
-#EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="@bdixiptvhub |HINDI | ENTERTAINMENT",Colors HD
 https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-hd/index.ts
 
