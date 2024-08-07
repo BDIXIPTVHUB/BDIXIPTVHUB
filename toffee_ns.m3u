@@ -1,2 +1,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="BDIX IPTV HUB", @bdixiptvhub
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="T SPORTS", T SPORTS LIVE 1
+https://fmrx.short.gy/join_@bdixiptvhub/t_sports_live_1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="T SPORTS", T SPORTS LIVE 2
+https://fmrx.short.gy/join_@bdixiptvhub/t_sports_live_2.m3u8
