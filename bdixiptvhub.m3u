@@ -333,6 +333,9 @@ http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="IND HINDI | ENTERTAINMENT", SONY PLIX HD
 https://ekusheyserver.com/etvlivesn.m3u8 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wblvtoHFXpBoat-oNukycB5auBa45inSwiyghE8gac3MN_ridYgeY1kHRKCkBrb1slgpIlO6Vw=s900-c-k-c0x00ffffff-no-rj" group-title="IND HINDI | ENTERTAINMENT", Goldmines 
+https://evbr.short.gy/BDStreamHub/Goldmines.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bFwYNBW/20240803-110739.png" group-title=" DOCUMENTARY", ANIMAL PLANET HD
 https://freeott.site/discovery/Animal_Planet.m3u8
 
