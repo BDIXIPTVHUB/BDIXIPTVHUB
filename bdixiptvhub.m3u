@@ -319,7 +319,7 @@ http://thenayeemparvez.xyz/sliv/stream.php?id=sony-sab-hd&e=.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="IND HINDI | ENTERTAINMENT", SONY PIX
-http://thenayeemparvez.xyz/sliv/stream.php?id=sony-pix-hd&e=.m3u8
+http://103.84.57.155:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IND HINDI | ENTERTAINMENT",& Flix
 http://128.0.104.44:8070/live/AmirBilali/76448035/45506.ts
