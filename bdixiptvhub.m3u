@@ -127,7 +127,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 http://103.151.60.174/manikvai@hoichoi24.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA HD
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=5yKKsiF-HWui6Bx2Vk9m8Q&expires=1723085130&user=d477246e9e724f81a011b847457e71c4
+http://217.20.112.199/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rzj28tJ/20240803-101916.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA SD 
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-sd/index.ts
