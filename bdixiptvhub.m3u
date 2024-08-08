@@ -126,6 +126,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
 http://103.151.60.174/manikvai@hoichoi24.com
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="IND BANGLA | ENTERTAINMENT", STAR JALSHA HD
+http://217.20.112.199/starjalshahd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA HD
 http://217.20.112.199/zeebangla/index.m3u8
 
