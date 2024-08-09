@@ -17,6 +17,10 @@ m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsj6qFg/20240802-195019.png" group-title="BD | ENTERTAINMENT", BTV HD
 
+#EXTINF:-1 tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-logo="" group-title="Movie",Toofan SMJ
+https://hf45.b-cdn.net/upload/videos/2024/07/[Fibwatch.Com]Toofan.(2024).HDTS.720p.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXxW24s/20240802-195055.png" group-title="BD | ENTERTAINMENT", BTV CHATTAGRAM 
 
