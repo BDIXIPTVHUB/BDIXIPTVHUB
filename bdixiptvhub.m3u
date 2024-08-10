@@ -46,7 +46,7 @@ http://xtv.ooo:8080/4412823896/7155272299/245911
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=dRLi-oNDfvNvVC1V0ezGtg&expires=1723084641&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YtGFZw3/20240802-200509.png" group-title="BD | ENTERTAINMENT", BANGLA VISION HD
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=wXwzO3klsl4ytUBYfe_aZA&expires=1723084606&user=d477246e9e724f81a011b847457e71c4
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJVmhl5zUfb6bwc3yfKFEmQ/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="BD | ENTERTAINMENT", DESH TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDTz1bt_mCQ4ZBccukX14Bs/ts
