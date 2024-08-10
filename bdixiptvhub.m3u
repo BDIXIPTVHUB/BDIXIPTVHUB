@@ -62,7 +62,7 @@ http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=Su4Nl0CtPeODtiMWYPkhow&expires=1723084626&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bX4tt98/20240730-222351.png" group-title="BD | ENTERTAINMENT", SOMOY TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=9u2MwHVz9iZ0pbGLZn0A6A&expires=1723085074&user=d477246e9e724f81a011b847457e71c4
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png" group-title="BD | ENTERTAINMENT", INDEPENDENT NEWS
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
