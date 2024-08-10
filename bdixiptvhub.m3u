@@ -56,7 +56,7 @@ http://176.119.29.52/live.ts?channelId=106&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" group-title="BD | ENTERTAINMENT", ATN NEWS
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=BHzeEaoYXEiO4qaTc6bNhw&expires=1723084390&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9LQgC1/20240802-201215.png" group-title="BD | ENTERTAINMENT", MOHONA TV 
-http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOjIk2xo1ObGuNT4g_XqiUk/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YyC5Y61/20240802-202044.png" group-title="BD | ENTERTAINMENT", BIJOY TV
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=Su4Nl0CtPeODtiMWYPkhow&expires=1723084626&user=d477246e9e724f81a011b847457e71c4
