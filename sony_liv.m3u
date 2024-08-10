@@ -1,6 +1,6 @@
-#EXTM3U × Dinesh Shrestha (ardinesh)
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="t.me/bdixiptvhub", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="SONY LIV",SONY PIX HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pix-hd/index.ts
 
