@@ -1,67 +1,67 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="t.me/bdixiptvhub", t.me/bdixiptvhub
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nCNCM7/20240803-185219.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
-#EXTINF:-1 tvg-id="ts32" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="SONY LIV",SONY PIX HD
+#EXTINF:-1 tvg-id="ts32" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY PIX HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pix-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts34" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="SONY LIV",SONY AATH
+#EXTINF:-1 tvg-id="ts34" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="BDIX IPTV HUB SONY LIV",SONY AATH
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-aath/index.ts
 
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="SONY LIV",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 5 HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-5-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts45" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="SONY LIV",SONY YAY
+#EXTINF:-1 tvg-id="ts45" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="BDIX IPTV HUB SONY LIV",SONY YAY
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-yay/index.ts
 
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="SONY LIV",SONY SAB HD
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY SAB HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sab-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="SONY LIV",SONY WAH
+#EXTINF:-1 tvg-id="ts56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY WAH
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-wah/index.ts
 
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="SONY LIV",SONY MAX HD
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="BDIX IPTV HUB SONY LIV",SONY MAX HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SONY LIV",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 1 HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-1-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="SONY LIV",SONY MAX 2
+#EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="BDIX IPTV HUB SONY LIV",SONY MAX 2
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-2/index.ts
 
-#EXTINF:-1 tvg-id="ts132" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="SONY LIV",SONY MAX
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY MAX
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max/index.ts
 
-#EXTINF:-1 tvg-id="ts150" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="SONY LIV",SONY SPORTS TEN 1
+#EXTINF:-1 tvg-id="ts150" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 1
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-1/index.ts
 
-#EXTINF:-1 tvg-id="ts158" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="SONY LIV",SONY BBC EARTH
+#EXTINF:-1 tvg-id="ts158" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png" group-title="BDIX IPTV HUB SONY LIV",SONY BBC EARTH
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-bbc-earth/index.ts
 
-#EXTINF:-1 tvg-id="ts170" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="SONY LIV",SONY SPORTS TEN 2
+#EXTINF:-1 tvg-id="ts170" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 2
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-2/index.ts
 
-#EXTINF:-1 tvg-id="ts171" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="SONY LIV",SONY SPORTS TEN 3
+#EXTINF:-1 tvg-id="ts171" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 3
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-3/index.ts
 
-#EXTINF:-1 tvg-id="ts460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="SONY LIV",SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="BDIX IPTV HUB SONY LIV",SONY BBC EARTH HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-bbc-earth-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts462" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SONY LIV",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 2 HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-2-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SONY LIV",SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="BDIX IPTV HUB SONY LIV",SONY SPORTS TEN 3 HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-3-hd/index.ts
 
-#EXTINF:-1 tvg-id="ts554" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="SONY LIV",SONY PAL
+#EXTINF:-1 tvg-id="ts554" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="BDIX IPTV HUB SONY LIV",SONY PAL
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pal/index.ts
 
-#EXTINF:-1 tvg-id="ts558" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="SONY LIV",SONY PIX
+#EXTINF:-1 tvg-id="ts558" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="BDIX IPTV HUB SONY LIV",SONY PIX
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pix/index.ts
 
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="SONY LIV",SONY SAB
+#EXTINF:-1 tvg-id="ts559" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="BDIX IPTV HUB SONY LIV",SONY SAB
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sab/index.ts
 
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="SONY LIV", SONY MARATHI
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="BDIX IPTV HUB SONY LIV", SONY MARATHI
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-marathi/index.ts
 
 
