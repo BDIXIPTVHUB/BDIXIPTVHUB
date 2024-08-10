@@ -145,6 +145,12 @@ https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-sd/index.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Y3PDz/20240803-101932.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA HD
 http://starshare.live:8080/live/Sylvia/Sylvia/98882.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Y3PDz/20240803-101932.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA HD
+http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vw5WYfy/20240803-102314.png" group-title="IND BANGLA | ENTERTAINMENT", ZEE BANGLA CINEMA 
+http://217.20.112.199/zeecinema/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="IND BANGLA | ENTERTAINMENT", COLORS BANGLA CINEMA 
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw/ts
 
