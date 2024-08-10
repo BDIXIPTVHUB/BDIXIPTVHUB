@@ -10,7 +10,7 @@ https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsj6qFg/20240802-195019.png" group-title="BD | CHANNEL", BTV HD
-http://176.119.29.52/live.ts?channelId=29197&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXxW24s/20240802-195055.png" group-title="BD | CHANNEL", BTV CHATTAGRAM 
 
@@ -19,7 +19,7 @@ http://176.119.29.52/live.ts?channelId=29197&uid=13603&deviceMac=00:1A:79:64:B4:
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDRQdxW/20240802-195715.png" group-title="BD | CHANNEL", ATN BANGLA
-http://176.119.29.52/live.ts?channelId=81&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="BD | CHANNEL", CHANNEL I HD
 http://tv.cloudcdn.me/live.ts?channelId=89&uid=13603&deviceMac=00:1A:79:64:B4:A6
