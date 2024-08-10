@@ -36,7 +36,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" group-title="BD | ENTERTAINMENT", NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=0BeQ4gWbR3Bo1u1utGL2BQ&expires=1723084622&user=969835d39e584e339cc868723c3189a9
+http://194.42.205.99:8070/live/AmirBilali/76448035/3647.ts
 Nagorik tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3DbP7V/20240802-200227.png" group-title="BD | ENTERTAINMENT", RTV HD
