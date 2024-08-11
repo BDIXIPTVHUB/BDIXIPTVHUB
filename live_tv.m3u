@@ -223,7 +223,7 @@ http://14.102.123.50:9080/play/a05u
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS CHANNEL", DISNEY KIDS
-http://176.119.29.52/live.ts?channelId=125666&uid=13603&deviceMac=00:1A:79:64:B4:A6
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=864
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS CHANNEL", DISNEY JUNIOR
 http://176.119.29.52/live.ts?channelId=129794&uid=13603&deviceMac=00:1A:79:64:B4:A6
