@@ -118,7 +118,7 @@ http://176.119.29.52/live.ts?channelId=90300&uid=13603&deviceMac=00:1A:79:64:B4:
 http://176.119.29.52/live.ts?channelId=44161&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YW800mn/20240802-214656.png" group-title="BD | CHANNEL", GLOBAL TV
-
+http://tv.bdix.xyz:8080/live/7788643/7788643/9432.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="KOLKATA CHANNEL", STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=13603&deviceMac=00:1A:79:64:B4:A6
