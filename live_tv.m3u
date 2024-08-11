@@ -214,7 +214,7 @@ http://tv.cloudcdn.me/live.ts?channelId=256&uid=13603&deviceMac=00:1A:79:64:B4:A
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS CHANNEL", HUNGAMA
-
+http://14.102.123.50:9080/play/a05u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS CHANNEL", MOTU PATLU
 
