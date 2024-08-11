@@ -1,1 +1,183 @@
 
+#EXTINF:-1 tvg-id="23820dcc" tvg-name="Independent TV" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png" tvg-chno="23820dcc" group-title="News",Independent TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=23820dcc&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=23820dcc&resource=stream
+#EXTINF:-1 tvg-id="2f636f06" tvg-name="Jamuna TV" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722948448337.png" tvg-chno="2f636f06" group-title="News",Jamuna TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=2f636f06&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=2f636f06&resource=stream
+#EXTINF:-1 tvg-id="e2fe2830" tvg-name="Channel 24 HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png" tvg-chno="e2fe2830" group-title="News",Channel 24 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=e2fe2830&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=e2fe2830&resource=stream
+#EXTINF:-1 tvg-id="e71d9181" tvg-name="BTV" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png" tvg-chno="e71d9181" group-title="News",BTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=e71d9181&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=e71d9181&resource=stream
+#EXTINF:-1 tvg-id="2345d777" tvg-name="ZEE BANGLA" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png" tvg-chno="2345d777" group-title="Entertainment",ZEE BANGLA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=2345d777&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=2345d777&resource=stream
+#EXTINF:-1 tvg-id="0faf6fb5" tvg-name="Star Jalsha HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" tvg-chno="0faf6fb5" group-title="Entertainment",Star Jalsha HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=0faf6fb5&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=0faf6fb5&resource=stream
+#EXTINF:-1 tvg-id="167a5a36" tvg-name="HUM TV" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" tvg-chno="167a5a36" group-title="Entertainment",HUM TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=167a5a36&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=167a5a36&resource=stream
+#EXTINF:-1 tvg-id="ab9159f5" tvg-name="NTV" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911893874.png" tvg-chno="ab9159f5" group-title="Entertainment",NTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=ab9159f5&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=ab9159f5&resource=stream
+#EXTINF:-1 tvg-id="7fbdea1a" tvg-name="Colors Bangla" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png" tvg-chno="7fbdea1a" group-title="Entertainment",Colors Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=7fbdea1a&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=7fbdea1a&resource=stream
+#EXTINF:-1 tvg-id="4259755d" tvg-name="RTV HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png" tvg-chno="4259755d" group-title="Entertainment",RTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=4259755d&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=4259755d&resource=stream
+#EXTINF:-1 tvg-id="a6e02c99" tvg-name="Bangla Vision" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911937453.png" tvg-chno="a6e02c99" group-title="Entertainment",Bangla Vision
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=a6e02c99&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=a6e02c99&resource=stream
+#EXTINF:-1 tvg-id="7759aa27" tvg-name="Colors HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925954547.png" tvg-chno="7759aa27" group-title="Entertainment",Colors HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=7759aa27&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=7759aa27&resource=stream
+#EXTINF:-1 tvg-id="a10e0db5" tvg-name="Star PLUS" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" tvg-chno="a10e0db5" group-title="Entertainment",Star PLUS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=a10e0db5&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=a10e0db5&resource=stream
+#EXTINF:-1 tvg-id="c25a6f60" tvg-name="Zee HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" tvg-chno="c25a6f60" group-title="Entertainment",Zee HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=c25a6f60&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=c25a6f60&resource=stream
+#EXTINF:-1 tvg-id="936a96d3" tvg-name="MTV HD 1" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722506302838.png" tvg-chno="936a96d3" group-title="Live Olympics",MTV HD 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=936a96d3&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=936a96d3&resource=stream
+#EXTINF:-1 tvg-id="257e44aa" tvg-name="MTV HD 2" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722506277491.png" tvg-chno="257e44aa" group-title="Live Olympics",MTV HD 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=257e44aa&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=257e44aa&resource=stream
+#EXTINF:-1 tvg-id="86079795" tvg-name="Nick " tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" tvg-chno="86079795" group-title="Kids",Nick 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=86079795&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=86079795&resource=stream
+#EXTINF:-1 tvg-id="161a8cdf" tvg-name="Disney Jr" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" tvg-chno="161a8cdf" group-title="Kids",Disney Jr
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=161a8cdf&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=161a8cdf&resource=stream
+#EXTINF:-1 tvg-id="8345f743" tvg-name="Nickelodeon Sonic" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png" tvg-chno="8345f743" group-title="Kids",Nickelodeon Sonic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=8345f743&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=8345f743&resource=stream
+#EXTINF:-1 tvg-id="94c47568" tvg-name="Star Movies HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png" tvg-chno="94c47568" group-title="Movies",Star Movies HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=94c47568&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=94c47568&resource=stream
+#EXTINF:-1 tvg-id="50243be8" tvg-name="Jalsha Movies" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png" tvg-chno="50243be8" group-title="Movies",Jalsha Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=50243be8&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=50243be8&resource=stream
+#EXTINF:-1 tvg-id="5d21a44b" tvg-name="Cineplex HD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png" tvg-chno="5d21a44b" group-title="Movies",Cineplex HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=5d21a44b&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=5d21a44b&resource=stream
+#EXTINF:-1 tvg-id="49e45d87" tvg-name="Zee Bangla Cinema" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702324558.png" tvg-chno="49e45d87" group-title="Movies",Zee Bangla Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=49e45d87&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=49e45d87&resource=stream
+#EXTINF:-1 tvg-id="f8da13f4" tvg-name="STAR GOLD" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png" tvg-chno="f8da13f4" group-title="Movies",STAR GOLD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=f8da13f4&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=f8da13f4&resource=stream
+#EXTINF:-1 tvg-id="563370de" tvg-name="Animal Planet" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719833976219.png" tvg-chno="563370de" group-title="Infotainment",Animal Planet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=563370de&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=563370de&resource=stream
+#EXTINF:-1 tvg-id="d06de0ca" tvg-name="MTV Beats " tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702898004.png" tvg-chno="d06de0ca" group-title="Music",MTV Beats 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nayeemparvez.tech/akaash/stream.mpd?id=d06de0ca&resource=drm
+https://nayeemparvez.tech/akaash/stream.mpd?id=d06de0ca&resource=stream
