@@ -102,7 +102,7 @@ http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjxUzojqbEe7BB8SOvJeQpqc/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDvdR4q/20240803-012316.png" group-title="BD | CHANNEL", BANGLA TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDvdR4q/20240803-012316.png" group-title="BD | CHANNEL", BANGLA TV EUROPE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sK8hLwL/20240813-112843.png" group-title="BD | CHANNEL", BANGLA TV EUROPE
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfD0D6Q/20240802-214550.png" group-title="BD | CHANNEL", ANANDA TV
@@ -123,16 +123,16 @@ http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj6T_w_m7AVQJvPBebrOSZbI/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k91GLhy/20240812-183952.png" group-title="BD | CHANNEL",GREEN TV
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2icYP81VfFp1CBke7nhUPs/ts
 
-#EXTINF:-1 tvg-logo="" group-title="BD | CHANNEL", CHANNEL S HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2c3xyF/20240813-113539.png" group-title="BD | CHANNEL", CHANNEL S HD
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="KOLKATA CHANNEL", STAR JALSHA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6rNftPN/20240813-112448.png" group-title="KOLKATA CHANNEL", STAR JALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="KOLKATA CHANNEL", STAR JALSHA FHD
 http://103.151.60.174/manikvai@hoichoi24.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="KOLKATA CHANNEL", ZEE BANGLA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44p65xw/20240813-112501.png" group-title="KOLKATA CHANNEL", ZEE BANGLA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="KOLKATA CHANNEL", ZEE BANGLA FHD
@@ -150,7 +150,7 @@ http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj0s9cQBOpsLnKRfE2Y-MDmY/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA CHANNEL", SONY AATH HD
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="KOLKATA CHANNEL", JALSHA MOVIS SD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="KOLKATA CHANNEL", JALSHA MOVIS SD 
 https://allinonereborn.com/tatatv.php?id=232265
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="KOLKATA CHANNEL", JALSHA MOVIS HD
@@ -279,7 +279,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6NDLsy/20240803-105344.png" group-title="MUSIC CHANNEL", ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/thenayeemparvez.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kStWysN/LTQ4-OTcuan-Bl-Zw.jpg" group-title="MUSIC CHANNEL",YRF MUSIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC CHANNEL",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1MY1r9f/20240803-105226.png" group-title="MUSIC CHANNEL", SANGEET BHOJPURI
@@ -306,7 +306,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NyMj8hs/20240803-110438.png" group-title="INDIA CHANNEL", STAR GOLD HD
 http://opplextv.cyou:8080/live/773199/626227/66177.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NyMj8hs/20240803-110438.png" group-title="INDIA CHANNEL", STAR GOLD TRILLS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfdnhxT/20240813-112731.png" group-title="INDIA CHANNEL", STAR GOLD TRILLS
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj0KfWlfy_q3RSTBWpJdGC-w/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRV25Y9/20240803-110715.png" group-title="INDIA CHANNEL", ZEE CINEMA HD
@@ -348,7 +348,7 @@ http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjzKwugyO6MOEv9x95T9QxWU/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rHzgNjw/20240812-184241.png" group-title="INDIA CHANNEL", SONY LIV EXCLUSIVE
 https://jio.dinesh29.com.np/live/jio-universal/sony-liv-exclusive/index.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHzgNjw/20240812-184241.png" group-title="INDIA CHANNEL", SONY PAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mh1StDJ/20240813-112744.png" group-title="INDIA CHANNEL", SONY PAL
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj-SLmP4CIVFX6Ye5gMboFIs/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx7s2SX/20240809-081220.png" group-title="INDIA CHANNEL", & XPLOR HD
@@ -360,10 +360,10 @@ http://14.102.123.50:9080/play/a04v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="INDIA CHANNEL", B4U MOVIE
 https://cdn2.pishow.tv/live/156/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJbh7r9/20240803-162759.png" group-title="INDIA CHANNEL ", STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LHn8wR/20240813-112823.png" group-title="INDIA CHANNEL ", STAR GOLD SELECT HD
 http://tv.cloudcdn.me/live.ts?channelId=197&uid=13433&deviceMac=00:1A:79:00:97:A1
 
-#EXTINF:-1 tvg-logo="" group-title="INDIA CHANNEL ", STAR MOVIE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6cJtM9/20240813-112800.png" group-title="INDIA CHANNEL ", STAR MOVIE HD
 http://14.102.123.50:9080/play/a04c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="INDIA CHANNEL", SONY PLIX HD
@@ -453,10 +453,10 @@ https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0rDWCv/20240803-111147.png" group-title="SPORTS CHANNEL", EURO SPORTS 
 https://vipgoodlive-tvs.starcdn.live/Eurosport_1_Live_TV/tracks-v1a1/index.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0rDWCv/20240803-111147.png" group-title="SPORTS CHANNEL", SKY SPORTS CRICKET  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgWRfWZ/20240813-112644.png" group-title="SPORTS CHANNEL", SKY SPORTS CRICKET  
 https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Cricket_Live_TV/tracks-v1a1/index.m3u8?
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0rDWCv/20240803-111147.png" group-title="SPORTS CHANNEL", SKY SPORTS FOOTBOLL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0DJCw5/20240813-112711.png" group-title="SPORTS CHANNEL", SKY SPORTS FOOTBOLL
 https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Football_Live_TV/tracks-v1a1/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/St5x1Cm/20240803-112641.png" group-title="SPORTS CHANNEL", SUPAR SPORTS CRICKET
@@ -513,5 +513,5 @@ https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="RELIGIOUS", MAKKAH TV
 https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MADINA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="RELIGIOUS", MADINA TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
