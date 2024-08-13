@@ -70,7 +70,7 @@ http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://utube.buddyxiptv.com/@channel24digital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nx6DCPW/20240802-202841.png" group-title="BD | CHANNEL", GAZI TV 
-http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj5A_sk7626hm59cZjjhWhBA/ts
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=RaaKR8tI1KevjM94a5v6bg&expires=1723784418&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="BD | CHANNEL", EKATTOR TV 
 https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
