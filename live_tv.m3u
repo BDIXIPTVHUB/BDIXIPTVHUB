@@ -162,6 +162,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png" group-title="KOLKATA CHANNEL", SUN BANGLA
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title="KOLKATA CHANNEL", BANGLA PLUS
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVj1krz/20240812-184023.png" group-title="KOLKATA CHANNEL", DD BANGLA
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2lBY_ZX-Fs7MG-7-Z2-tJw/ts
 
