@@ -120,8 +120,8 @@ http://176.119.29.52/live.ts?channelId=44161&uid=13603&deviceMac=00:1A:79:64:B4:
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YW800mn/20240802-214656.png" group-title="BD | CHANNEL", GLOBAL TV
 http://tv.bdix.xyz:8080/live/7788643/7788643/9432.ts
 
-#EXTINF:-1 tvg-logo="" group-title="BD | CHANNEL",Green Tv
-http://tv.bdix.xyz:8080/live/7788643/7788643/81.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k91GLhy/20240812-183952.png" group-title="BD | CHANNEL",GREEN TV
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="KOLKATA CHANNEL", STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=13603&deviceMac=00:1A:79:64:B4:A6
@@ -159,10 +159,10 @@ https://allinonereborn.com/tatatv.php?id=232265
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png" group-title="KOLKATA CHANNEL", SUN BANGLA
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA CHANNEL", DD BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVj1krz/20240812-184023.png" group-title="KOLKATA CHANNEL", DD BANGLA
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA CHANNEL", AMAR DIGITAL 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title="KOLKATA CHANNEL", AMAR DIGITAL 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA CHANNEL", KHUSHBOO BANGLA  
@@ -195,7 +195,7 @@ http://176.119.29.52/live.ts?channelId=90234&uid=13603&deviceMac=00:1A:79:64:B4:
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL", DURONTO TV HD
 http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS CHANNEL", KIDS CARTOON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s544wN3/20240812-184634.png" group-title="KIDS CHANNEL", KIDS CARTOON
 
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS CHANNEL", RONGEEN TV
@@ -207,7 +207,7 @@ http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13603&deviceMac=00:1A:79:64:B4
 #EXTINF:-1 tvg-logo="" group-title="KIDS CHANNEL", NICKELODEON HINDI
 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS CHANNEL", NICKELODEON HD+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nP2SPDj/20240812-183713.png" group-title="KIDS CHANNEL", NICKELODEON HD+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SrVqxD0/image-Content-390-j5jpps1s-m1.png" group-title="KIDS CHANNEL", NICKELODEON JUNIOR 
@@ -243,8 +243,7 @@ http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13603&deviceMac=00:1A:79:64:B4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS CHANNEL", DISNEY CARTOON HD
 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS CHANNEL", DISNEY JUNIOR
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L58W5JY/20240812-183727.png" group-title="KIDS CHANNEL", DISNEY JUNIOR
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC CHANNEL", SANGEET BANGLA
@@ -289,7 +288,7 @@ http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13603&deviceMac=00:1A:79:64:B4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="MUSIC CHANNEL", E24
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNEL", DOOM MUSIC BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC CHANNEL", DOOM MUSIC BANGLA
  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQL9Zs5/20240803-105418.png" group-title="MUSIC CHANNEL", SHOW BOX
@@ -343,10 +342,10 @@ http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13603&deviceMac=00:1A:79:64:B4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="INDIA CHANNEL", SONY SAB
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="INDIA CHANNEL", SONY LIV EXCLUSIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rHzgNjw/20240812-184241.png" group-title="INDIA CHANNEL", SONY LIV EXCLUSIVE
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="INDIA CHANNEL", SONY PAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rHzgNjw/20240812-184241.png" group-title="INDIA CHANNEL", SONY PAL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx7s2SX/20240809-081220.png" group-title="INDIA CHANNEL", & XPLOR HD
@@ -469,7 +468,7 @@ http://tv.cloudcdn.me/live.ts?channelId=98&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k5FMpsF/20240803-112725.png" group-title="SPORTS CHANNEL", WILLOW
  
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL", BEIN SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHkC9Rn/20240812-184221.png" group-title="SPORTS CHANNEL", BEIN SPORTS 
  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qTY5MF/20240803-171500.png" group-title="SPORTS CHANNEL", ESPN
