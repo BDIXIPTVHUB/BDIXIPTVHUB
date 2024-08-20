@@ -1,4 +1,6 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20240813T021344SQUARE.png" group-title="Motor Sports",Top Gear
 https://jmp2.uk/SamsungTVPlus/USBC2400027NG.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20240813T021333SQUARE.png" group-title="Reality Competition",Alone By History
