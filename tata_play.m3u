@@ -74,6 +74,8 @@ https://yuvraj43.xyz/tp-ww/manifest.mpd?id=15
 #EXTINF:-1 tvg-id="556" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Entertainment",SET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=556
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=48
@@ -129,8 +131,6 @@ https://yuvraj43.xyz/tp-ww/manifest.mpd?id=52
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=543
 
-#EXTINF:-1 tvg-id="" group-title="Playlist by @m3u_lovers (Telegram)" tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" ,t.me/m3u_lovers
-https://t.me/m3u_lovers
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=587
@@ -183,6 +183,8 @@ https://yuvraj43.xyz/tp-ww/manifest.mpd?id=627
 #EXTINF:-1 tvg-id="681" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="Kids",Cartoon Network HD+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=681
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=238
@@ -879,6 +881,8 @@ https://yuvraj43.xyz/tp-ww/manifest.mpd?id=514
 #EXTINF:-1 tvg-id="514" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEEBH_Thumbnail-v2/ZEEBH_Thumbnail.png" group-title="News",Zee Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=514
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=183
@@ -1455,6 +1459,8 @@ https://yuvraj43.xyz/tp-ww/manifest.mpd?id=517
 #EXTINF:-1 tvg-id="39" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music",9X Jalwa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=39
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=733
@@ -2055,6 +2061,8 @@ https://yuvraj43.xyz/tp-ww/manifest.mpd?id=305
 #EXTINF:-1 tvg-id="26" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Regional Bengali",Colors Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=26
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=522
