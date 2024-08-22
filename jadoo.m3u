@@ -1,112 +1,104 @@
 #EXTM3U x [ নোটিশ ] - আমার তৈরি কোন প্লেলিস্ট আমার অনুমতি ছাড়া যদি কেউ নিজের মন মত সাজিয়ে নিজের নামে দিয়ে চালাই দেন। আপনার ইজ্জত কে আমি xxxx দিব। সাবধান 🧿
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO" 9X JALWA
-https://edge01.iptv.digijadoo.net/live/9x_jalwa/playlist.m3u8?md5=jF_DJXg26DrYIgc3RrEHIA&expires=1724298733&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ATN BANGLA HD
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=PkY3h4XJOQflAwKaHu6CTw&expires=1724271770&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ATN NEWS HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="BDIX IPTV HUB JADOO",ATN NEWS
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=0Qcw6C9AgnwZL5lGgVveeA&expires=1724271786&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", AL JAZEERA HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="BDIX IPTV HUB JADOO",AL Jazeera HD
 https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=DXkHoHCpOx8sC9HLRj37UQ&expires=1724271817&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ANANDA TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="BDIX IPTV HUB JADOO",Anando TV
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=VfRP8rcu0MLuxE4B-8LdGA&expires=1724271842&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ARIRANG
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="BDIX IPTV HUB JADOO",Arirang
 https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=aWPzYeAh-aGqpJKChXvAqA&expires=1724298758&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ASIAN TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="BDIX IPTV HUB JADOO",BBC LIFESTYLE
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=I4nxEl7KGQs0JBHTtHufvQ&expires=1724298775&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BBC LIFESTYLE 
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=I4nxEl7KGQs0JBHTtHufvQ&expires=1724298775&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BBC WORLD NEWS HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="BDIX IPTV HUB JADOO",BBC WORLD
 https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=wMxukmM1stasWeqJDgnzNA&expires=1724298802&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BTV WORLD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="BDIX IPTV HUB JADOO",BTV WORLD
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=zuh6joFgtHw9F_YQEFKVCA&expires=1724298816&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BANGLA TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="BDIX IPTV HUB JADOO",BANGLA TV
 https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=mOdp54cVPl5xREqoUI6RZw&expires=1724298832&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BANGLA VISION HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="BDIX IPTV HUB JADOO",BANGLA VISION
 https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=BVHxhZ-Pw2ryp37dR0a1cg&expires=1724298844&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BIJOY TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="BDIX IPTV HUB JADOO",BIJOY TV
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=3pROSu0osfFBsIyRTvgwFQ&expires=1724298856&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", BOISHAKHI TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="BDIX IPTV HUB JADOO",BOISHAKHI TV
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=4S4jTcSnm_sUi08mzpaevQ&expires=1724298867&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", CBEEBIES BBC
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title="BDIX IPTV HUB JADOO",Cbeebies Asia
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=KqqnW6fqkLPNxxf_--iu-g&expires=1724298878&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", CGTN
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" group-title="BDIX IPTV HUB JADOO",CGTN
 https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=zAgEA84tBu7LXe2V6J_P8w&expires=1724298888&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", CNN
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="BDIX IPTV HUB JADOO",CNN
 https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=j_r7qVdwJw_BzQHhfqGqRw&expires=1724298901&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="BDIX IPTV HUB JADOO",CHANNEL 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=D_B-KVkOBerD4rkN16_x8g&expires=1724298951&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", CHANNEL 9 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="BDIX IPTV HUB JADOO",CHANNEL 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=lurOCMaFHVUz1WIzFV2hbA&expires=1724298963&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", CHANNEL I HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="BDIX IPTV HUB JADOO",CHANNEL I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=jP9-Uukbzb1_S4-bxpAPjg&expires=1724298973&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", DBC NEWS HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="BDIX IPTV HUB JADOO",DBC NEWS
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=nIT8_3ikK04BF1WCU3HdzQ&expires=1724298983&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", DW NEWS ENGLISH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="BDIX IPTV HUB JADOO",Asian TV
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=I4nxEl7KGQs0JBHTtHufvQ&expires=1724298775&user=ef71b837ceef4cd18a6cf7069722d83d
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" group-title="BDIX IPTV HUB JADOO",DW
 https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=gsVlc0a6QC3YbUTGujpBbA&expires=1724298993&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", DEEPTO TV HD
-https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=7jpKfPeDhblRGawVs7q3ew&expires=1724299004&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", DESH TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=EumELsCpDME8iNRqaKArxQ&expires=1724299015&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", DURONTO TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="BDIX IPTV HUB JADOO",DURONTO TV
+https://tv5.hoichoi24.com/1103/video.m3u8
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BDIX IPTV HUB JADOO",EKATTOR TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=1PFZaCY2g58ELlzLxM9I3w&expires=1724299025&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", EKATTOR TV HD
-https://livess.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", EKUSHEY TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="BDIX IPTV HUB JADOO",EKUSHEY TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=tfxxr3Cmm2yFXxLAN4oBrQ&expires=1724299047&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", FOX ACTION MOVIE
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" group-title="BDIX IPTV HUB JADOO",FOX ACTON MOVIE
 https://edge01.iptv.digijadoo.net/live/fox_action_movies_hd/playlist.m3u8?md5=w8N1NK4WSo6Ui9ZR9b2r6Q&expires=1724299057&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", FRANCE 24 FRANCAIS
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/france24_fran%C3%A7ais.png" group-title="BDIX IPTV HUB JADOO",France 24
 https://edge01.iptv.digijadoo.net/live/france24_francais/playlist.m3u8?md5=pmj3UqgL_yFn9fqPycD9Og&expires=1724299069&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", GAAN BANGLA
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="BDIX IPTV HUB JADOO",GAAN BANGLA
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=HeDE8v4YgzIBLPx6a0Y1_A&expires=1724299082&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", GAZI TV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="BDIX IPTV HUB JADOO",GAZI TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=iZCPDgcM0z06Se6W6dfa-A&expires=1724299094&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="BDIX IPTV HUB JADOO",INDEPENDENT TV
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=PozfWEK8US-ozGQL2Cn66g&expires=1724299106&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", JAMUNA TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BDIX IPTV HUB JADOO",JAMUNA TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=wqZkMCj-ofWEnRuUMmMOTw&expires=1724299117&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", LOTUS MACAU
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="BDIX IPTV HUB JADOO",Lotus Macau
 https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=snfQyBNWiCEasJMw3Fi2yA&expires=1724299128&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", MY TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BDIX IPTV HUB JADOO",My TV
 https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=hq4skSnUuURSCIpX8mGj2w&expires=1724299138&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", MAASRANGA TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="BDIX IPTV HUB JADOO",MAASRANGA TV
 https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=H5HYNnl9Pn-bSA7_SdwIfw&expires=1724299150&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" group-title="BDIX IPTV HUB JADOO",NHK World Japan
 https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=kdMA9Y4OcUKsEmsaMsDNbw&expires=1724299161&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", NTV 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="BDIX IPTV HUB JADOO",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=wnioFljCBpYyAjr4s3sTOg&expires=1724299171&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", NAGORIK TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="BDIX IPTV HUB JADOO",NAGORIK TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=8StCDVzTWv-7wf68OsF9hw&expires=1724299182&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="BDIX IPTV HUB JADOO",News 24 HD
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=4I55gQe4z6d_oW7PGsz5FA&expires=1724299193&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", NEXUS TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="BDIX IPTV HUB JADOO",NEXUS TV
 https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=UNsNC0Aa-Nr69Q-FnegX2A&expires=1724299205&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", AL QURAN TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="BDIX IPTV HUB JADOO",QURAN TV
 https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=KzPLndqVwjxiz1Xg4TPmSg&expires=1724299214&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", RT ENGLISH
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" group-title="BDIX IPTV HUB JADOO",RT
 https://edge01.iptv.digijadoo.net/live/rt_english/playlist.m3u8?md5=FNRvj2lD2iJQ3is45rpUjg&expires=1724299224&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", RTV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="BDIX IPTV HUB JADOO",RTV
 https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=o-vyMujbKFXN-xRG4q0QgQ&expires=1724299254&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", SATV HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="BDIX IPTV HUB JADOO",SATV
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=xkmtu3jqOJtkKBaUKIwRBQ&expires=1724299265&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", SANGSAD TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sangsad_tv.png" group-title="BDIX IPTV HUB JADOO",Sangsad TV
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=gdAhtBMsOv9UPcGh2UFg1w&expires=1724299276&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", SOMOY TV HD
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=m6ZPhSP8MnUzPaWZvwxONA&expires=1724299286&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", AL SUNNAH  
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="BDIX IPTV HUB JADOO",SOMOY TV
+https://ythls-v3.onrender.com/video/aTzRun7M-fk.m3u8
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sunnah_tv.png" group-title="BDIX IPTV HUB JADOO",Sunnah TV
 https://edge01.iptv.digijadoo.net/live/sunnah_tv/playlist.m3u8?md5=NoZO-nmT-d5Yng0As59xQw&expires=1724299296&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", T SPORTS HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="BDIX IPTV HUB JADOO",T SPORTS
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=p4_hj7cDE_y8CKNufNYk_A&expires=1724299349&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ZEE BANGLA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="BDIX IPTV HUB JADOO",Zee Bangla HD
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=HT8zfhPgFq6fXpFr_Pcebg&expires=1724299360&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO ", ZEE CINEMA
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="BDIX IPTV HUB JADOO",ZEE CINEMA
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=DCDbluLm-dQQfrzhdF4f7Q&expires=1724299374&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="BDIX IPTV HUB JADOO", ZEE TV
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="BDIX IPTV HUB JADOO",ZEE TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=9uMFtki9sCJDNn3gtLSXtQ&expires=1724299385&user=ef71b837ceef4cd18a6cf7069722d83d
-
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1565247058-56902119.png" group-title="Other All Channel",Discovery Bangla HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="SPORTS", SONY SPORTS 1
 http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="SPORTS", SONY SPORTS 2
