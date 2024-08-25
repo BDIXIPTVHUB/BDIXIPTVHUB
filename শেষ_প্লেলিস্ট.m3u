@@ -2,6 +2,11 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
 http://bdixiptvhub/join_our_telegram.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vsffPjW/20240809-193520.png" group-title="TOFFEE & T SPORTS", T SPORTS 1 
+https://bdix.proximitybd.xyz/buka.php?id=live-01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQdvtJW/20240809-193440.png" group-title="TOFFEE & T SPORTS", T SPORTS 2
+https://bdix.proximitybd.xyz/buka.php?id=live-02
+
 #EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=fowlQZ3Fx4Tc3ijLNyA3cg&expires=1724823629&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
@@ -84,6 +89,102 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=Ez7kIxySD
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=eB6EBV0sD2yPu9vi0chMng&expires=1724824443&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="JADOO TV", 9x Jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+
+http://tv.cloudcdn.me/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SONY MAX 2
+https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", GOLDMINES
+https://evbr.short.gy/BDStreamHub/Goldmines.ts
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", GOLDMINES BOLLYWOOD 
+https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BFLIX
+http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U MOVIE
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", THE MOVIE CLUB
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", SHEEMAROO BOLLYWOOD 
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BOLLWDOOD PRIMR
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES", ZEE ANIMOL CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", STAR MOVIE HD
+http://xtv.ooo:8080/live/global/global/66213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", SONY PLIX HD
+https://mhdtvweb.com/sliv/stream.php?id=sony-pix-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", & FLIX HD
+https://colorsscreen.com/live.php?id=1322&extension=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MOVIE NOW HD
+http://opplextv.cyou:8080/live/4545/4545/66271.ts
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MNX HD
+http://opplextv.cyou:8080/live/4545/4545/66266.ts
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", HBO
+http://tv.cloudcdn.me/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", MOVIE ACTION 
+
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH MOVIES", 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY HD
+https://drmlive.in/discoveryplus/discoveryhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY BANGLA
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY SCIENCE 
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY TURBO
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DISCOVERY ID
+https://drmlive.in/discoveryplus/discoveryid.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NATIONAL GEOGRAPHIC HD
+http://opplextv.cyou:8080/live/773199/626227/109977.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", ANIMAL PLANET 
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", NAT GEO WILD
+http://opplextv.cyou:8080/live/4545/4545/206286.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", FOX LIFE HD
+http://opplextv.cyou:8080/live/4545/4545/66278.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", HGTV
+https://drmlive.in/discoveryplus/hgtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", TLC HD
+https://drmlive.in/discoveryplus/tlc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", TRAVEL HD
+https://drmlive.in/discoveryplus/travel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", SONY BBC EARTH HD
+https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", WILD EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", FOOD NETWORK 
+http://opplextv.cyou:8080/live/4545/4545/346288.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", DMAX
+https://drmlive.in/discoveryplus/dmax.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", TRAVELXP 
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY", FOOD FOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", ISLAM BANGLA 
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", DEEN TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MADANI TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MAKKAH TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", IQRA BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", AL SUNNAH
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", ATN ISLAMIC TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", MADINA LIVE 24x7
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hhx9DB3/20240825-194133.png" group-title="JAGO BD",BTV
