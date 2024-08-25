@@ -221,7 +221,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", STAR JALSHA HD
-http://217.20.112.199/starjalshahd/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", STAR JALSHA FHD
 http://103.151.60.174/manikvai@hoichoi24.com
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", ZEE BANGLA SD
@@ -235,15 +235,15 @@ http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", COLORS BANGLA HD
 http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", COLORS BANGLA CINEMA 
-http://14.102.123.50:5001/render.m3u8?auth=d60TXwzF5lzFxJ7LtEBXBnrOtQSAW6WssgRfEZBJsUbJPIazj23JVAUhgBsdBFpWouHeLvepCKuMNa9wHtYJHuMURosNLfKT_u_uH-ZFnf-TUOAGuIon8qac4goVM1uqK8fRNV9J-29TZw68IGX2yZlVwSm-5MLPQyDCzFLVVeSZX3FpP-CEPJ8IeO9GIGpnHtcHiBUMbhNhDgr8D4jwJqqaquOVCwINxvKGG8lDiXYo4ZL7yint052ugosZ4t_T1hCg7ZOBhTmBXSLG19IdIjWRKkwnzGd8-1xhiEp3bZXTKOQrxLYE60VrsyGYYuZ3RshiuWvTzVlZgqqMRZ0d90JBXDeCAwQya7my-uvZyCcB7U4MjOFJhwTJ9qN1oQ==&channel_key_id=1657
+http://14.102.123.50:5001/live/1657.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", JALSHA MOVIES SD
-
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", JALSHA MOVIES HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", SONY AATH SD
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", SONY AATH HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", ZEE BANGLA CINEMA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA REGIONAL", SUN BANGLA 
