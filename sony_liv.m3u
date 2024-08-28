@@ -385,50 +385,50 @@ https://thenayeemparvez.xyz/cric/master.php?id=espnusa&e=.m3u8|Referer=https://t
 #EXTINF:-1 tvg-id="12" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/YCMDkDHs/Super-Cricket.png" tvg-chno="12" group-title="CRIC HD",Super Sport Cricket
 https://thenayeemparvez.xyz/cric/master.php?id=supercricket&e=.m3u8|Referer=https://thenayeemparvez.xyz/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="ENTERTAINMENT", SONY TV HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="SONY LIV", SONY TV HD 
 https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY SAB HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SAB HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY PAL
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY PAL
 https://mhdtvweb.com/sliv/stream.php?id=sony-pal&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkQtvLV/20240804-180008.png" group-title="ENTERTAINMENT", SONY MARATHI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkQtvLV/20240804-180008.png" group-title="SONY LIV", SONY MARATHI
 https://mhdtvweb.com/sliv/stream.php?id=sony-marathi&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT", SONY AATH
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY AATH
 https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="ENTERTAINMENT", SONY KAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="SONY LIV", SONY KAL
 https://mhdtvweb.com/sliv/stream.php?id=sony-kal&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX 
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY MAX 
 https://mhdtvweb.com/sliv/stream.php?id=sony-max&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hZMS29C/20240804-145905.png" group-title="MOVIE", SONY MOVIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hZMS29C/20240804-145905.png" group-title="SONY LIV", SONY MOVIE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY MAX HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY MAX 2
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY MAX 2
 https://mhdtvweb.com/sliv/stream.php?id=sony-max-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY PIX HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY PIX HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-pix-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", SONY WAH
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY WAH
 https://mhdtvweb.com/sliv/stream.php?id=sony-wah&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="LIFESTYLE", SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="SONY LIV", SONY BBC EARTH HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="SONY LIV", SONY YAY 
 https://mhdtvweb.com/sliv/stream.php?id=sony-yay&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 1
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparveze
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 2
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 2
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 3
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 3
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 5
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 5
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 1 HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMcZt2G/20240803-110921.png" group-title="SPORTS", SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMcZt2G/20240803-110921.png" group-title="SONY LIV", SONY SPORTS TEN 2 HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 3 HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 4 HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 4 HD
 http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26:09
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-logo="" group-title="SONY LIV", SONY SPORTS TEN 5 HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
