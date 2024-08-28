@@ -3,56 +3,56 @@ https://fmrx.short.gy/bdixiptvhub/akash/independent_news.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", JAMUNA TV
 https://fmrx.short.gy/bdixiptvhub/akash/jamuna_tv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", EKATTOR TV
-
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=qZD2O93eyAlz3N3n1-SOGA&expires=1725000520&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="", ATN NEWS 
-
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=BAKPe8T1sZYSd0IIJjHJdg&expires=1725000327&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="", CHANNEL 24
-
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="", ZEE BANGLA
-
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", STAR JALSHA
 
 #EXTINF:-1 tvg-logo="" group-title="", HUM TV
-
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", NTV
-
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=Ijt18ozD1LIjHO5ZohnZOA&expires=1724916300&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="", COLORS BANGLA
 
 #EXTINF:-1 tvg-logo="" group-title="", RTV HD
-
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", BANGLA VISION 
-
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=BluxVDktCFKYVpl-Iw__jQ&expires=1725000376&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="" group-title="", COLORS HD
 
 #EXTINF:-1 tvg-logo="" group-title="", STAR PLUS
-
+http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", ZEE TV
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv1/default/zeetv1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", BTV
-
+http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", STAR SPORTS SELECT 1 HD
 
 #EXTINF:-1 tvg-logo="" group-title="", STAR SPORTS SELECT 2 HD
 
 #EXTINF:-1 tvg-logo="" group-title="", STAR SPORTS 1 HD
-
+https://ddy6.mizhls.ru/ddy6/premium268/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="", NICK
-
+http://14.102.123.50:5001/live/1341.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", DISNEY JR
 
 #EXTINF:-1 tvg-logo="" group-title="", NICKELODEON SONIC
-
+http://14.102.123.50:5001/live/1345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", STAR MOVIE
-
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="" group-title="", JALSHA MOVIES
 
 #EXTINF:-1 tvg-logo="" group-title="", COLORS CINEFLIX HD
-
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 #EXTINF:-1 tvg-logo="" group-title="", ZEE BANGLA CINEMA
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", STAR GOLD
-
+http://humsab.xyz/IN_STGOLD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", ANIMAL PLANET 
 
 #EXTINF:-1 tvg-logo="" group-title="", MTV BEATS
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
