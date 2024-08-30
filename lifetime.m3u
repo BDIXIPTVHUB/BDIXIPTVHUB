@@ -82,7 +82,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=4Swbx1CjuvFK
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=qZD2O93eyAlz3N3n1-SOGA&expires=1725000520&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
-https://mtlivestream.com/asian/ytlive/index.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=Q0wlUPCt1PHjRMw2J-Uwtg&expires=1725196999&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESH", SATV HD
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=zdPl_BNGFgH7mCeID7x9yg&expires=1725000543&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
@@ -171,7 +171,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png" group-title="KOLKATA", AKASH AATH
-http://176.119.29.61/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1&redir=1
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="KOLKATA", RUPOSHI BANGLA
 https://cdn3.pishow.tv/live/281/master.m3u8
@@ -283,7 +283,7 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", STAR PLUS HD
-http://217.20.112.199/starplushd/index.m3u8
+http://opplextv.cyou:8080/live/773199/626227/66166.ts
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", ZEE TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA HINDI", STAR BHARAT HD
@@ -302,12 +302,22 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PAKISTAN", HAR PAL GRO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", 
-
-#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", 
-
-#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", 
-
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY DIGITAL 
+https://humsab.xyz/PAK_ARYTVG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY QTV
+http://172.105.123.238:18003/play/a01k
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY NEWS ASIA
+http://172.105.123.238:18003/play/a01m
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY MUSIK
+http://172.105.123.238:18003/play/a01l
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY ZINDAGI
+http://172.105.123.238:18003/play/a01i
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", AFGHAN TV
+http://172.105.123.238:18003/play/a021
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", AHLEBAIT TV
+http://172.105.123.238:18003/play/a00f
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", MUSLIM TV
+http://172.105.123.238:18003/play/a00d
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="INDIA HINDI", SONY KAL
