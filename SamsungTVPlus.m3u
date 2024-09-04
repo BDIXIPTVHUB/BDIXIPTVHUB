@@ -1,4 +1,12 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml"
+
+আমার প্রিয়ে Admin ভাইয়েরা আমার Toffee লিংক বা আমার সকল প্লেলিস্ট ব্যবহার করা থেকে বিরত থাকুন। নাহলে আপনাদের কে চোর ট্যাগ দিতে বাধ্য হব।
+
+২ জনকে রিমাইন্ড দিলাম আমার সকল প্রকার প্লেলিস্ট ব্যবহার থেকে বিরত থাকুন { @Rubel_Ahmed_RS } + { @KrishnaoChandro } ⚠️ 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+http://bdixiptvhub/join_our_telegram.m3u8
+
 #EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="뉴스" tvg-chno="501",연합뉴스TV
 https://jmp2.uk/sam-KRBD1400001ED.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20240403T030123SQUARE.png" group-title="뉴스" tvg-chno="502",YTN
