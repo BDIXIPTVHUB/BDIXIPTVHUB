@@ -271,6 +271,31 @@ https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=xFXpqkcHrAEEp4RQgNH
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABC NEWS
 https://utube.buddyxiptv.com/@ABCNews.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", HAR PAL GEO
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY DIGITAL HD
+https://mhdtvplay.com/aryzap/stream.m3u8?id=arydigital&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY MUSIC
+https://mhdtvplay.com/aryzap/stream.m3u8?id=arymusik&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY QTV
+https://mhdtvplay.com/aryzap/stream.m3u8?id=aryqtv&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY ZINDAGI
+https://mhdtvplay.com/aryzap/stream.m3u8?id=aryzindagi&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", ARY NEWS
+https://mhdtvplay.com/aryzap/stream.m3u8?id=arynewsweb&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", DUNYA NEWS
+https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PAKISTAN", DISCOVERY PAKISTAN 
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", B4U BHOJPURI
+http://tv.cloudcdn.me/live.ts?channelId=78859&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", FILAMCHI BHOJPURI 
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", BHOJPURI CINEMA
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BHOJPURI", SANGEET BHOJPURI 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS", DURONTO TV
