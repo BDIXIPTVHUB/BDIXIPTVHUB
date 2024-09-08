@@ -89,7 +89,7 @@ https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=yeXLh4KIXMrOAs9uLO3
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=rOgt0cKRNuFVUmpemXfTdA&expires=1725871206&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD 
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=dm2texnD5CJ8-XksBWxIsA&expires=1725871219&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=N3cj9J4MmOL-KyhiKMvK4A&expires=1725871230&user=ef71b837ceef4cd18a6cf7069722d83d
