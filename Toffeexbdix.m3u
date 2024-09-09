@@ -1,1 +1,64 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+{ # This playlists presented by @bdixiptvhub } { # Hosting from MR Rabby }
+
+আমার প্রিয়ে Admin ভাইয়েরা আমাদের লিংক বা আমার সকল প্লেলিস্ট ব্যবহার করা থেকে বিরত থাকুন। নাহলে আপনাদের কে চোর ট্যাগ দিতে বাধ্য হব।
+
+যদি কেউ আমাদের প্লেলিস্ট ব্যবহার করতে চান যোগাযোগ - [ @bdixiptvhubchat Telegram ] 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wcxj8bc/bdixiptvhub.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixiptvhub
+http://bdixiptvhub/join_our_telegram.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fN5XMYC/IMG-20240909-171027-988.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/live_cricket_24
+http://live_sports_link/join_our_telegram.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/122RBvy/image-25.webp" group-title="LIVE", TOFFEE SPORTS
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HhZmGdt/image-2.webp" group-title="LIVE", TOFFEE MOVIES
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r6Zpvqk/image-3.webp" group-title="LIVE", TOFFEE DRAMAS
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R7yb85N/image-8.webp" group-title="ENTERTAINMENT", ZEE BANGLA
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mt344Nj/image-9.webp" group-title="ENTERTAINMENT", ZEE TV HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WfQLGnS/image-10.webp" group-title="ENTERTAINMENT", SONY ENTERTAINMENT
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RbR2hvY/image-11.webp" group-title="ENTERTAINMENT", SONY ENTERTAINMENT HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/59PWZt1/image-12.webp" group-title="ENTERTAINMENT", SOMY MAX
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Dt7ZTd3/image-13.webp" group-title="ENTERTAINMENT", SONY MAX HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Qn0459w/image-14.webp" group-title="ENTERTAINMENT", B4U MOVIE
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b2Lw1Wz/image-15.webp" group-title="ENTERTAINMENT", SONY AATH
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PwHt6Nt/image-16.webp" group-title="ENTERTAINMENT", SONY SAB HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SKZLLgy/image-17.webp" group-title="ENTERTAINMENT", SONY MAX 2
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0c5CCXS/image-18.webp" group-title="ENTERTAINMENT", SONY WAH
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7CCFfJz/image-19.webp" group-title="ENTERTAINMENT", SONY YAY
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCpBQCF/image-20.webp" group-title="ENTERTAINMENT", SONY BBC EARTH HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GCLBCfr/image-21.webp" group-title="MOVIE", ZEE BANGLA CINEMA 
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jyDT76P/image-22.webp" group-title="MOVIE", ZEE CINEMA HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8YChcJ3/image-23.webp" group-title="MOVIE", SONY PIX HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/P17MCJ1/image-24.webp" group-title="MOVIE", B4U MOVIES
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3104Jj7/image-4.webp" group-title="SPORTS", SONY SPORTS TEN 1 HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQVNSXq/image-5.webp" group-title="SPORTS", SONY SPORTS TEN 2 HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/548xpgF/image-6.webp" group-title="SPORTS", SONY SPORTS TEN 3 HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YPs29jh/image-7.webp" group-title="SPORTS", SONY SPORTS TEN 5 HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
 
